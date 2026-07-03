@@ -32,7 +32,7 @@ Em resposta à sua última comunicação e no seguimento das informações anter
 
 **3.** O registo no SIAC identifica os animais e os titulares, e o afixo respeita ao registo genealógico gerido pelo Clube Português de Canicultura. A inscrição de um animal nestes registos não depende de um registo de alojamento nos termos do Decreto-Lei n.º 276/2001, de 17 de outubro, sem prejuízo de esta informação relevar para as ações de fiscalização das autoridades competentes.
 
-**4.** O pedido a que alude o ofício do SEPNA foi indeferido por esta Direção-Geral, por ofício de 10 de abril de 2026, por o alojamento não se encontrar registado sob a titularidade da requerente, em conformidade com o disposto no n.º 11 do artigo 3.º do Decreto-Lei n.º 276/2001, de 17 de outubro. Nenhum pedido de terceiros produziu qualquer efeito sobre o registo PT 2 118 FL, que se manteve inalterado até à cessação comunicada por V. Ex.ª.
+**4.** Conforme informação já prestada, o pedido a que alude o ofício do SEPNA não obteve seguimento, tendo sido indeferido por esta Direção-Geral em conformidade com o disposto no n.º 11 do artigo 3.º do Decreto-Lei n.º 276/2001, de 17 de outubro. Nenhum pedido de terceiros produziu qualquer efeito sobre o registo PT 2 118 FL, que se manteve inalterado até à cessação comunicada por V. Ex.ª.
 
 **5.** Conforme comunicado a V. Ex.ª em 27 de outubro de 2025, das diligências realizadas pelos Serviços Médico-Veterinários do Município do Fundão e pela Guarda Nacional Republicana não resultaram apurados indícios de natureza criminal, nem participações no âmbito do bem-estar animal. Não tendo sido apresentados novos elementos até março de 2026, não houve fundamento para diligências adicionais nesse período.
 
