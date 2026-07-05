@@ -45,6 +45,15 @@
 - **"Ponto 6 suprimido"** → Lapso de numeração; sem justificação elaborada. Pedido de versões preparatórias: documentos preparatórios/procedimento não concluído — art. 6.º da Lei 26/2016; validar recusa com o jurídico.
 - **Matéria repetida** → Os pontos 3.ª vez interpelados (registo atual, SEPNA) preparam a invocação do art. 13.º, n.º 2 do CPA na ronda seguinte: matéria idêntica já apreciada, sem elementos novos, não dá lugar a nova pronúncia.
 
+## 3-bis. Informação interna 85373/26 (28/05/2026) — documento-âncora
+
+- Fixa, com base legal e ressalva de "melhor entendimento jurídico": não-retroatividade (efeitos desde a receção; incumprimento do prazo do art. 3.º-F registado); atividade "devidamente registada" no local desde 2022 sob o PT 2 118 FL; recusa de qualificar "clandestina" por ser alheio às competências; reserva da informação procedimental à interessada; licitude da detenção de 18 canídeos em prédio misto (art. 3.º, n.ºs 1 e 4 do DL 314/2003).
+- **Trunfo de reserva (não usado externamente): cessão de exploração (art. 3.º-F, n.º 1)** — o que o denunciante descreve como ocorrido em dez/2022 configuraria cessão de exploração, cuja comunicação cabia ao próprio titular em 15 dias; confirma que a atividade nunca cessou (nada há para retroagir) e que o único incumprimento documentado 2022–2026 é do denunciante. Usar apenas com validação jurídica (a figura também expõe a exploração de facto pela outra parte sem comunicação).
+- Verificações fechadas pela 85373: remoção da lista só com a tramitação de abril/2026 (ponto 7); intenção de cessação consta da exposição de 06/03/2026 (ponto 3); relatórios SMV/GNR sem confirmação de maus-tratos (ponto 2).
+- **A verificar:** data do ofício 64462/26-E (email de análise diz 10/04; ficheiro do Anexo 13 diz 22/04; a 85373 data o pedido de 17/03 mas não o ofício). Fixar a data certa antes de nova citação interna.
+- **Pendente:** parecer solicitado na conclusão a) da 85373 (Divisão de Bem-Estar) sobre a tramitação da MCP — campos Parecer/Despacho vazios na cópia assinada; enquanto não vier, o atraso da MCP tem justificação documentada; quando vier, a tramitação deve andar.
+- Se esta informação vier a ser objeto de pedido LADA (após conclusão do procedimento), exigirá expurgo: nomeia a responsável do novo alojamento e o respetivo procedimento (P.4120/26).
+
 ## 4. Pendência crítica (prazo em curso)
 
 **LADA:** o prazo de 10 dias do art. 15.º da Lei 26/2016 corre desde a data do requerimento dele. A via (parecer prévio da CADA — com comunicação obrigatória ao requerente nos termos do n.º 2 do art. 15.º — ou decisão com expurgo nos termos do n.º 8 do art. 6.º) tem de ser fixada pelo gabinete jurídico antes do termo do prazo. A queixa à CADA em caso de silêncio é dada como certa pelo próprio denunciante.
