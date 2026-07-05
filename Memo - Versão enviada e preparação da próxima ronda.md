@@ -1,6 +1,8 @@
-# MEMO — Versão efetivamente enviada (julho 2026) e preparação da próxima ronda
+# MEMO — Versão proposta para envio (julho 2026) e preparação da próxima ronda
 
-## 1. Versão enviada (transcrição)
+> **Estado:** proposta remetida à Diretora; **ainda não enviada ao denunciante**. Numeração corrigida (o salto 5→7 do texto original foi eliminado: LADA passa a ponto 6, elementos/propriedade a ponto 7). Decisão deliberada e assumida: o ponto 3 segue **sem** a ressalva "releva para a fiscalização" — evitou-se frase citável que criaria um dever retrospetivo de cruzamento de dados ("se releva, porque não relevou 2022–2026?"); a defesa contra a acusação de inércia assenta nos factos (registo ativo no local durante todo o período ⇒ nenhum cruzamento detetaria anomalia; a opacidade resultou do incumprimento do art. 3.º-F pelo próprio).
+
+## 1. Versão proposta (transcrição)
 
 **Enquadramento à Diretora:**
 
@@ -20,16 +22,16 @@
 > 3. O registo no SIAC identifica os animais e os titulares, e o afixo respeita ao registo genealógico gerido pelo Clube Português de Canicultura. A inscrição de um animal nestes registos não depende de um registo de alojamento nos termos do Decreto-Lei n.º 276/2001, de 17 de outubro.
 > 4. Conforme informação já prestada, o pedido a que alude o ofício do SEPNA não teve seguimento e foi indeferido por esta Direção-Geral, em conformidade com o disposto no n.º 11 do artigo 3.º do Decreto-Lei n.º 276/2001, de 17 de outubro. Nenhum pedido de terceiros produziu qualquer efeito sobre o registo PT 2 118 FL, que se manteve inalterado até à cessação comunicada por V. Ex.ª.
 > 5. Conforme comunicado a V. Ex.ª em 27 de outubro de 2025, das diligências realizadas pelos Serviços Médico-Veterinários do Município do Fundão e pela Guarda Nacional Republicana não resultaram apurados indícios de natureza criminal, nem participações no âmbito do bem-estar animal. Não tendo sido apresentados novos elementos até março de 2026, não houve fundamento para diligências adicionais nesse período.
-> 7. O pedido de cópia dos autos está em apreciação nos termos da Lei n.º 26/2016, de 22 de agosto, em observância às obrigações sobre os dados pessoais de terceiros (documentos nominativos, alínea b) do n.º 1 do artigo 3.º).
-> 8. Para conclusão da apreciação das suas exposições e deste processo, poderá V. Ex.ª remeter os elementos que entenda relevantes, incluindo os respeitantes ao direito de propriedade do imóvel, os quais só poderão ser ponderados no estrito âmbito das atribuições desta Direção-Geral, a quem não cabe dirimir conflitos de natureza civil, matéria da competência dos tribunais.
+> 6. O pedido de cópia dos autos está em apreciação nos termos da Lei n.º 26/2016, de 22 de agosto, em observância às obrigações sobre os dados pessoais de terceiros (documentos nominativos, alínea b) do n.º 1 do artigo 3.º).
+> 7. Para conclusão da apreciação das suas exposições e deste processo, poderá V. Ex.ª remeter os elementos que entenda relevantes, incluindo os respeitantes ao direito de propriedade do imóvel, os quais só poderão ser ponderados no estrito âmbito das atribuições desta Direção-Geral, a quem não cabe dirimir conflitos de natureza civil, matéria da competência dos tribunais.
 
 ## 2. Diferenças face à versão preparada (exposições criadas)
 
 | # | Diferença | Exposição |
 |---|---|---|
 | 1 | Caíram o ponto do MP ("toda a colaboração... sede própria") e o antigo ponto 6 ("investigação criminal não integra as atribuições") | Secção "Âmbito Penal" da queixa sem tratamento; ele lerá o silêncio como recuo |
-| 2 | Numeração salta do 5 para o 7 | Insinuação de supressão; previsível pedido LADA de "versões preparatórias" |
-| 3 | Ponto 3 sem a ressalva "sem prejuízo de esta informação relevar para as ações de fiscalização" | Leitura de "sistema cego assumido"; contraria a intenção institucional de cruzamento SIAC/CPC/alojamentos |
+| 2 | ~~Numeração salta do 5 para o 7~~ **Corrigido antes do envio** (agora 1–7 contínuos) | — |
+| 3 | Ponto 3 sem a ressalva "releva para a fiscalização" — **decisão deliberada** (evitar frase citável geradora de dever retrospetivo de cruzamento) | Defesa contra "sistema cego": registo ativo no local em todo o período ⇒ nenhum cruzamento detetaria anomalia; opacidade criada pelo incumprimento do art. 3.º-F pelo próprio |
 | 4 | Ponto 2 sem o art. 82.º do CPA | 3.ª interpelação "que registo existe hoje?" sem recusa fundamentada |
 | 5 | Ponto 1 sem a cláusula do "facto registral" | Abre a leitura de imputação de responsabilidade 2022–2026 e o ângulo "lista pública enganosa" |
 | 6 | Ponto 7 (LADA) sem compromisso de prazo | Queixa à CADA certa se o prazo de 10 dias correr sem decisão |
