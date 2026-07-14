@@ -42,15 +42,15 @@ Com os melhores cumprimentos,
 8. «Alegadamente relacionado com o mesmo local» — cautela epistémica: a DGAV não conhece o objeto do inquérito, apenas o que o denunciante invocou;
 9. Mantida a frase-chave do técnico: «tramitação a que esta Direção-Geral está [legalmente] obrigada».
 
-## Peça complementar — Ofício ao Município do Fundão (art.º 66.º do CPA)
+## Peça complementar — Ofício à Câmara Municipal do Fundão (versão final, super sintética)
 
-> No âmbito da tramitação de mera comunicação prévia relativa a alojamento destinado à criação
-> comercial de animais de companhia, sito na Estrada Municipal 1075, 6230-783 Vale de Prazeres,
-> Fundão, e ao abrigo do dever de auxílio
-> administrativo previsto no artigo 66.º do Código do Procedimento Administrativo (aprovado pelo
-> Decreto-Lei n.º 4/2015, de 7 de janeiro), solicita-se que informem se corre nesse Município
-> algum procedimento ou decisão respeitante àquele prédio com relevância para as atribuições
-> desta Direção-Geral, designadamente em matéria de detenção de animais de companhia
-> (artigo 3.º, n.os 1 e 4, do Decreto-Lei n.º 314/2003, de 17 de dezembro).
-> Agradece-se resposta no prazo de 10 dias úteis (artigo 86.º do CPA), informando-se que a
-> ausência de resposta não obsta ao prosseguimento da tramitação.
+**Destinatário:** Câmara Municipal do Fundão
+**Assunto:** Mera comunicação prévia — alojamento de criação de animais de companhia — Estrada Municipal 1075, Monte Leal, Vale de Prazeres
+
+Exmo. Senhor Presidente,
+
+Encontra-se em tramitação nesta Direção-Geral uma mera comunicação prévia, apresentada por Susana Maria Borges Walgode, para o exercício de atividade de criação comercial de animais de companhia no alojamento sito na Estrada Municipal 1075, 6230-783 Monte Leal, Vale de Prazeres, Fundão. Ao abrigo do dever de auxílio administrativo (artigo 66.º do Código do Procedimento Administrativo), solicita-se que informem, no prazo de 10 dias úteis (artigo 86.º do mesmo Código), se corre nesse Município algum procedimento ou decisão respeitante àquele prédio ou à requerente com relevância para as atribuições desta Direção-Geral, designadamente em matéria de detenção de animais de companhia (artigo 3.º, n.ºs 1 e 4, do Decreto-Lei n.º 314/2003, de 17 de dezembro). A ausência de resposta no prazo indicado não obsta ao prosseguimento da tramitação.
+
+Com os melhores cumprimentos,
+
+> Nota: prazo solicitado diretamente (art.º 86.º do CPA) por se tratar de entidade administrativa — ao contrário do ofício ao MP, onde o marcador temporal é autorreferencial. "Ou à requerente" acrescentado ao objeto: as decisões municipais sobre detenção de animais seguem a pessoa, não apenas o prédio.
