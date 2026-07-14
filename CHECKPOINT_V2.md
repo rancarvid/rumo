@@ -53,6 +53,10 @@ Este v2 é integralmente baseado nos documentos oficiais entretanto disponíveis
 | 29-05-2026 | Email dos serviços ao denunciante: «em análise» | (email no processo) |
 | ~jun. 2026 | Nova reclamação à Diretora-Geral: «Inação Administrativa e Falta de Resposta» (a que motivou esta sessão de trabalho; sem data no texto disponível) | transcrito nesta sessão |
 | **01-07-2026** | **Resposta enviada ao denunciante** pela Diretora de Serviços (email, c/c Diretora-Geral), 9 pontos | **Anexo 17** |
+| 01-07-2026 (21:45) | **Réplica do denunciante** (9 pontos): contesta a resposta, argumento novo sobre o SIAC, **pedido LADA de cópia dos autos de inspeção** com 3 quesitos, ameaças de denúncia pública e de aditamento ao NUIPC | eml de 03-07; transcrição em `trabalho-sessao/` |
+| 02-07-2026 | Diretora de Serviços pede orientação ao Gabinete Jurídico (manter entendimento ou acrescentar alegação) | eml «Feedback do jurídico» |
+| 03-07-2026 (08:08) | **Feedback do jurídico (Dr. Edward Andrade)**: «pode ser necessário exigir a cada um a demonstração do título de propriedade ou de outro direito sobre o local»; complemento por telefone **não registado por escrito** | eml «Feedback do jurídico» |
+| 03-07-2026 (18:40) | Técnico submete à Diretora **proposta de análise e resposta** (8 pontos; ainda não remetida ao denunciante) | eml «Análise e Proposta de resposta»; `trabalho-sessao/PROPOSTA_RESPOSTA_JUL2026_EM_APRECIACAO.md` |
 
 ---
 
@@ -69,11 +73,14 @@ Este v2 é integralmente baseado nos documentos oficiais entretanto disponíveis
 4. **Sem fraude**: o pedido de alteração de designação comercial (17-03-2026) foi indeferido; a Info 85373/26 conclui não resultar aparente qualquer tentativa de fraude.
 5. **GNR encerrou a sua parte** (OFI01196/26, 21-04-2026): sem maus-tratos, documentação em ordem, sem elementos novos que justifiquem reabertura; esclareceu o denunciante presencialmente (05-04-2026) e remeteu as questões civis para as vias judiciais.
 
-### Pendente
-- **Parecer da Divisão de Bem-Estar dos Animais** (pedido na Info 85373/26): tramitação da MCP de Susana Walgode — procedimento normal (taxa + emissão de número) ou diligência adicional;
-- **Parecer do Gabinete Jurídico** sobre a reclamação (assunto remetido para parecer, segundo o utilizador);
+### Pendente (atualizado 14-07-2026)
+- **🔴 URGENTE — Pedido LADA** (réplica de 01-07-2026, ponto 4): cópia dos autos de inspeção/controlo. Prazo legal de 10 dias (Lei 26/2016, art.º 15.º) em curso desde a receção — **a expirar por estes dias** (confirmar contagem exata). Vias: decisão com acesso parcial/expurgo de dados de terceiros, ou indeferimento fundamentado; em qualquer caso, decidir dentro do prazo, destacando esta resposta da resposta geral se necessário;
+- **Resposta geral à réplica de 01-07**: proposta de 03-07 submetida à Diretora, **ainda não remetida**; apreciação crítica em `trabalho-sessao/PROPOSTA_RESPOSTA_JUL2026_EM_APRECIACAO.md`;
+- **Clarificar a orientação do jurídico**: o feedback escrito do Dr. Edward (exigir a ambos título de propriedade/direito sobre o local) foi complementado por telefone sem registo escrito, e está em tensão com o entendimento técnico (art.º 3.º-A: elenco fechado, sem elementos dominiais). Antes de verter na resposta, obter a base legal habilitante e registar a orientação por escrito;
+- **Argumento SIAC** (réplica, ponto 3): novo ângulo do denunciante — verificar internamente o enquadramento dos registos SIAC dos cachorros nascidos no local (o registo SIAC não depende do registo de alojamento, cf. proposta de 03-07, ponto 3 — mas antecipar a insistência);
+- **Parecer da Divisão de Bem-Estar dos Animais** (pedido na Info 85373/26): tramitação da MCP de Susana Walgode — sem registo de resposta no repositório;
 - **P.4120/26**: acompanhamento da resolução das inconformidades detetadas em 13-04-2026;
-- **Provável nova reiteração do denunciante** — ver secção 4.
+- A reiteração prevista **concretizou-se** (réplica de 01-07); a estratégia da secção 4 mantém-se válida para a ronda seguinte.
 
 ---
 
@@ -130,5 +137,8 @@ O padrão está documentado: esclarecimentos telefónicos em que o denunciante s
 | `Anexo 16b - …Resposta GNR Sepna….pdf` | Ofício GNR OFI01196/26 (21-04-2026): encerramento pela GNR |
 | `Anexo 11 - Alojamento - Susana Walgode - Medidas corretivas.pdf` | Medidas corretivas + MCP da atual detentora |
 | `Anexos 1–15` | Peças do processo por ordem cronológica (denúncias, informações, ofícios) |
+| `2026-07-03 - … - Feedback do jurídico.eml` | Pergunta da Diretora (02-07) + feedback escrito do Dr. Edward Andrade (03-07) |
+| `2026-07-03 - … - Análise e Proposta de resposta.eml` | Proposta do técnico à Diretora (03-07) + texto integral da réplica do denunciante (01-07, 21:45) |
+| `trabalho-sessao/` | Documentos de trabalho da sessão: transcrições, apreciações, minutas e versões de informação interna |
 | `readme.md` | Contexto inicial e enquadramento legal de base (parcialmente desatualizado quanto ao estado do processo) |
 | `Enquadramento.docx` | Rascunho de análise interna (contém no final um parágrafo pessoal alheio ao processo, a expurgar se reutilizado) |
