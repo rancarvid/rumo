@@ -1,6 +1,7 @@
 # Minuta — Ofício ao Ministério Público (tramitação da MCP)
 
-> **Estado:** MINUTA REVISTA (14-07-2026) — revisão da reformulação do técnico.
+> **Estado:** MINUTA FINAL (14-07-2026) — versão curta validada pelo técnico.
+> **Alterações finais:** removido o parágrafo do "procedimento vinculado/art.º 3.º-A" (a vinculação fica na frase final); o marcador temporal passou a autorreferencial — "a tramitação não será concluída antes de 10 dias úteis" — cortesia institucional em vez de prazo imposto ao MP (magistratura); morada completada com "Monte Leal". No ofício à Câmara Municipal o prazo mantém-se como solicitação direta (art.º 86.º do CPA) — entidade administrativa, regime diferente.
 > **Contexto:** estratégia de robustecimento da tramitação da MCP de Susana Walgode
 > (cf. CHECKPOINT_MCP_DA_SUSANA.md): comunicar previamente ao Município do Fundão e ao
 > Ministério Público, sem criar condição suspensiva — a emissão fica ancorada à conclusão
@@ -18,13 +19,11 @@
 
 Exma. Senhora Procuradora / Exmo. Senhor Procurador da República,
 
-No exercício das atribuições conferidas à Direção-Geral de Alimentação e Veterinária (DGAV) pelo Decreto-Lei n.º 276/2001, de 17 de outubro, encontra-se em tramitação nestes serviços uma mera comunicação prévia para o exercício de atividade de criação comercial de animais de companhia em alojamento sito na Estrada Municipal 1075, 6230-783 Vale de Prazeres, Fundão.
+No exercício das atribuições conferidas à Direção-Geral de Alimentação e Veterinária (DGAV) pelo Decreto-Lei n.º 276/2001, de 17 de outubro, encontra-se em tramitação nestes serviços uma mera comunicação prévia para o exercício de atividade de criação comercial de animais de companhia em alojamento sito na Estrada Municipal 1075, 6230-783 Monte Leal, Vale de Prazeres, Fundão.
 
 Em comunicações dirigidas a esta Direção-Geral, foi invocada por terceiro a pendência do inquérito em referência, alegadamente relacionado com o mesmo local.
 
-Tratando-se de procedimento vinculado, cujos elementos instrutórios se encontram taxativamente fixados no artigo 3.º-A do citado diploma, a tramitação prosseguirá os seus termos, não se prevendo a sua conclusão antes de decorridos 10 dias úteis sobre a data do presente ofício.
-
-Caso no âmbito do inquérito tenham sido adotadas medidas, designadamente de natureza cautelar, que devam ser observadas por esta Direção-Geral, muito se agradece a respetiva indicação. A ausência de resposta não obsta ao prosseguimento da tramitação a que esta Direção-Geral está legalmente obrigada, sem prejuízo da inteira disponibilidade para prestar toda a colaboração que lhe seja requisitada.
+Caso no âmbito do inquérito tenham sido adotadas medidas, designadamente de natureza cautelar, que devam ser observadas por esta Direção-Geral, muito se agradece a respetiva indicação. Informa-se que a tramitação não será concluída antes de decorridos 10 dias úteis sobre a data do presente ofício, prosseguindo depois os seus termos, a que esta Direção-Geral está legalmente obrigada, sem prejuízo da inteira disponibilidade para prestar toda a colaboração que lhe seja requisitada.
 
 Com os melhores cumprimentos,
 
