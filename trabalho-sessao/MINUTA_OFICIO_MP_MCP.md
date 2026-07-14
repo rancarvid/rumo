@@ -2,6 +2,7 @@
 
 > **Estado:** MINUTA FINAL (14-07-2026) — versão curta validada pelo técnico.
 > **Alterações finais:** removido o parágrafo do "procedimento vinculado/art.º 3.º-A" (a vinculação fica na frase final); o marcador temporal passou a autorreferencial — "a tramitação não será concluída antes de 10 dias úteis" — cortesia institucional em vez de prazo imposto ao MP (magistratura); morada completada com "Monte Leal". No ofício à Câmara Municipal o prazo mantém-se como solicitação direta (art.º 86.º do CPA) — entidade administrativa, regime diferente.
+> **Identificação da requerente (decisão revista):** a requerente é nomeada — o controlo material que o ofício visa (medidas cautelares, penas acessórias de privação de detenção de animais, art.º 388.º-A do CP) segue a pessoa, não o prédio, e sem o nome o MP não o pode fazer. Fundamento da distinção face à recusa ao denunciante: o art.º 82.º do CPA veda informação procedimental a particulares não interessados; a identificação perante o MP assenta na colaboração com a autoridade judiciária no exercício das suas funções — planos legais distintos (resposta pré-construída a eventual alegação de incoerência se o denunciante aceder ao inquérito).
 > **Contexto:** estratégia de robustecimento da tramitação da MCP de Susana Walgode
 > (cf. CHECKPOINT_MCP_DA_SUSANA.md): comunicar previamente ao Município do Fundão e ao
 > Ministério Público, sem criar condição suspensiva — a emissão fica ancorada à conclusão
@@ -19,11 +20,11 @@
 
 Exma. Senhora Procuradora / Exmo. Senhor Procurador da República,
 
-No exercício das atribuições conferidas à Direção-Geral de Alimentação e Veterinária (DGAV) pelo Decreto-Lei n.º 276/2001, de 17 de outubro, encontra-se em tramitação nestes serviços uma mera comunicação prévia para o exercício de atividade de criação comercial de animais de companhia em alojamento sito na Estrada Municipal 1075, 6230-783 Monte Leal, Vale de Prazeres, Fundão.
+No exercício das atribuições conferidas à Direção-Geral de Alimentação e Veterinária (DGAV) pelo Decreto-Lei n.º 276/2001, de 17 de outubro, encontra-se em tramitação nestes serviços uma mera comunicação prévia, apresentada por Susana Maria Borges Walgode, para o exercício de atividade de criação comercial de animais de companhia em alojamento sito na Estrada Municipal 1075, 6230-783 Monte Leal, Vale de Prazeres, Fundão.
 
 Em comunicações dirigidas a esta Direção-Geral, foi invocada por terceiro a pendência do inquérito em referência, alegadamente relacionado com o mesmo local.
 
-Caso no âmbito do inquérito tenham sido adotadas medidas, designadamente de natureza cautelar, que devam ser observadas por esta Direção-Geral, muito se agradece a respetiva indicação. Informa-se que a tramitação não será concluída antes de decorridos 10 dias úteis sobre a data do presente ofício, prosseguindo depois os seus termos, a que esta Direção-Geral está legalmente obrigada, sem prejuízo da inteira disponibilidade para prestar toda a colaboração que lhe seja requisitada.
+Caso no âmbito do inquérito tenham sido adotadas medidas, designadamente de natureza cautelar, ou proferidas decisões — nomeadamente as respeitantes à detenção de animais pela requerente — que devam ser observadas por esta Direção-Geral, muito se agradece a respetiva indicação. Informa-se que a tramitação não será concluída antes de decorridos 10 dias úteis sobre a data do presente ofício, prosseguindo depois os seus termos, a que esta Direção-Geral está legalmente obrigada, sem prejuízo da inteira disponibilidade para prestar toda a colaboração que lhe seja requisitada.
 
 Com os melhores cumprimentos,
 
