@@ -12,13 +12,13 @@
 
 ---
 
-**Destinatário:** Procuradoria da República da Comarca de Castelo Branco — [serviços do Fundão / DIAP competente]
+**Destinatário:** Ministério Público — Procuradoria da República da Comarca de Castelo Branco (DIAP)
 **Assunto:** Tramitação de mera comunicação prévia — Decreto-Lei n.º 276/2001, de 17 de outubro
-**Referência:** NUIPC 000169/26.4GBFND
+**Referência:** NUIPC 000169/26.4GBFND (invocado por terceiro em comunicações dirigidas a esta Direção-Geral)
 
 Exma. Senhora Procuradora / Exmo. Senhor Procurador da República,
 
-No exercício das atribuições conferidas à Direção-Geral de Alimentação e Veterinária (DGAV) pelo Decreto-Lei n.º 276/2001, de 17 de outubro, encontra-se em tramitação nestes serviços uma mera comunicação prévia para o exercício de atividade de criação comercial de animais de companhia em alojamento sito em [morada — Monte Leal, Vale de Prazeres, Fundão].
+No exercício das atribuições conferidas à Direção-Geral de Alimentação e Veterinária (DGAV) pelo Decreto-Lei n.º 276/2001, de 17 de outubro, encontra-se em tramitação nestes serviços uma mera comunicação prévia para o exercício de atividade de criação comercial de animais de companhia em alojamento sito na Estrada Municipal 1075, 6230-783 Vale de Prazeres, Fundão.
 
 Em comunicações dirigidas a esta Direção-Geral, foi invocada por terceiro a pendência do inquérito em referência, alegadamente relacionado com o mesmo local.
 
@@ -45,7 +45,8 @@ Com os melhores cumprimentos,
 ## Peça complementar — Ofício ao Município do Fundão (art.º 66.º do CPA)
 
 > No âmbito da tramitação de mera comunicação prévia relativa a alojamento destinado à criação
-> comercial de animais de companhia, sito em [morada], e ao abrigo do dever de auxílio
+> comercial de animais de companhia, sito na Estrada Municipal 1075, 6230-783 Vale de Prazeres,
+> Fundão, e ao abrigo do dever de auxílio
 > administrativo previsto no artigo 66.º do Código do Procedimento Administrativo (aprovado pelo
 > Decreto-Lei n.º 4/2015, de 7 de janeiro), solicita-se que informem se corre nesse Município
 > algum procedimento ou decisão respeitante àquele prédio com relevância para as atribuições
