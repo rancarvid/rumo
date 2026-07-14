@@ -73,12 +73,26 @@ Ficheiros: `2026-03-13 - Susana Walgode - Pedido de alteração de titularidade.
 Ofício GNR OFI00069/26 (23-03-2026) remete à DSAVRC a informação de serviço G0000136/26 (RS 24/26-NPA) da visita de 12-03-2026 (denúncia FISC0002514/26), **solicitando informação do resultado das diligências** (verificar se já foi respondido).
 
 1. **Afixo «D'Aurora Barks» aprovado pelo CPC em 22-03-2023** (ofício CPC 2023/28, exibido à GNR) — destrói a tese de «usurpação» do afixo: o afixo próprio dela existe desde março de 2023;
-2. **Declaração de alterações de atividade na AT de 06-01-2023** em nome dela (CAE principal 01493 — criação de animais de companhia, + 4 secundários) — formalização fiscal da atividade logo após o divórcio; boa-fé com data anterior a tudo;
+2. ~~Declaração de alterações de atividade na AT de 06-01-2023 (CAE 01493)~~ — **elemento de gume duplo, EXCLUÍDO da informação interna da MCP** (ver nota de decisão abaixo);
 3. **GNR atesta no auto (12-03-2026):** «os canídeos estavam bem tratados, estavam vacinados, registados e licenciados, no alojamento dispunham de água e comida», com inventário nominal (10 Border Collie + 8 Serra da Estrela — coincide com o formulário da MCP). **Três** verificações sem maus-tratos: out-2025 (SMV+GNR), 12-03-2026 (EPNA/GNR), 13-04-2026 (DGAV+NPA);
 4. **Génese documental do «pedido de alteração de designação comercial»**: formulário «Alteração à MCP» de 13-03-26 assinala apenas designação comercial (Canil D'Aurora Barks) e contactos — não «titularidade» (essa expressão vem dos emails dela);
 5. Duas denúncias do denunciante à GNR só em março: FISC0002514/26 (12-03) e FISC0003416/26 (31-03);
 6. Requerente acompanhada de **advogada** (Dr.ª Ana Rita Maceiras) na visita de 12-03; alega suportar há 15 meses o crédito bancário do imóvel (litígio civil — fora do âmbito DGAV);
 7. **Ajustes decorrentes para a informação interna da MCP**: enriquecer alínea a) (visita 12-03 com achados da GNR e ofício OFI00069/26), precisar alínea b) (alteração de designação comercial + contactos no formulário; «transferência de titularidade» nos emails), e citar as três verificações na frase de reforço do ponto 7.
+
+### Nota de decisão — exclusão da declaração AT (14-07-2026, a pedido do utilizador)
+
+**Questão levantada:** citar a declaração de alterações de atividade na AT (06-01-2023, CAE 01493, em nome dela) na informação interna não é contraproducente, na medida em que **reforça exatamente a alegação do Rui Mónica** — de que a atividade passou para a ex-mulher em finais de 2022 e ela a manteve por conta própria desde então?
+
+**Resposta:** sim, é um risco real, e a informação interna foi corrigida para a excluir. Ponderação:
+
+1. **O facto já está multiplamente documentado por outras vias** (emails do próprio Rui de 09-04: «a posse e responsabilidade... foram transferidas para a minha ex-cônjuge»; emails dela de março; declarações de ninhada no CPC desde 2023; mapa de movimentos entregue por ela) — não é a nossa informação que revela a cronologia, mas também não há necessidade de a consolidar numa frase quotável **num documento nosso**;
+2. **Juridicamente inofensivo na posição já firmada** (Informação 85373/26): a atividade esteve coberta pelo registo PT 2 118 FL até 09-04-2026 (nunca cessado pelo titular); faltou apenas a comunicação da cessão de exploração (art.º 3.º-F, n.º 1, DL 276/2001) — dever que era **do titular**, o próprio Rui Mónica. Se ele brandir a declaração da AT, confessa que cedeu a exploração e nunca o comunicou;
+3. **Mas não pertence a esta informação**: a apreciação da MCP é vinculada e prospetiva (elementos do art.º 3.º-A, taxa, medidas corretivas) — a cronologia do exercício passado é irrelevante para a emissão, e citá-la aqui só serve para consolidar, num documento oficial nosso, uma munição que hoje está dispersa. Aplica-se o princípio já formulado nesta sessão: quanto mais matéria do conflito o documento contiver, mais material fornece.
+
+**Decisão:** a declaração AT foi **retirada** da alínea a) da Análise (ver `trabalho-sessao/INFORMACAO_INTERNA_MCP_SUSANA_WALGODE.md`, a atualizar). O **afixo CPC de 2023** foi mantido (serve diretamente a alínea b) — explica o pedido de alteração de designação comercial — e desarma "usurpação" sem datar o exercício comercial dela; a data de 2023 do afixo tem o mesmo tipo de risco em grau menor, mas a ligação técnica à alínea b) justifica-o).
+
+**Reserva:** o argumento da AT fica disponível para outro contexto — nomeadamente se o Gabinete Jurídico vier a ponderar matéria contraordenacional, onde a transparência fiscal dela e o dever de comunicação incumprido pelo Rui Mónica apontam na mesma direção (responsabilidade dele, não dela).
 
 ---
 
