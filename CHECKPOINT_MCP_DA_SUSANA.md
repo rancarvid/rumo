@@ -68,6 +68,18 @@ Ficheiros: `2026-03-13 - Susana Walgode - Pedido de alteração de titularidade.
 6. Menores: raças Serra da Estrela e Border Collie; instalações vistoriadas «há vários anos» (continuidade física); **dois emails de remetente diferentes** (susanawalgode@ / walgodesusana@gmail.com) — confirmar o oficial para notificações;
 7. Reforço da posição da DGAV: ela confirma a continuidade da atividade sob o registo existente após o divórcio — coerente com a Informação 85373/26 (atividade registada até à cessação; o dever de comunicar a cessão de exploração era do titular, o denunciante).
 
+## 3-B. Elementos novos — Auto da GNR de 23-03-2026 (analisado em 14-07; ficheiro `2026-03-23 Auto da GNR.pdf`)
+
+Ofício GNR OFI00069/26 (23-03-2026) remete à DSAVRC a informação de serviço G0000136/26 (RS 24/26-NPA) da visita de 12-03-2026 (denúncia FISC0002514/26), **solicitando informação do resultado das diligências** (verificar se já foi respondido).
+
+1. **Afixo «D'Aurora Barks» aprovado pelo CPC em 22-03-2023** (ofício CPC 2023/28, exibido à GNR) — destrói a tese de «usurpação» do afixo: o afixo próprio dela existe desde março de 2023;
+2. **Declaração de alterações de atividade na AT de 06-01-2023** em nome dela (CAE principal 01493 — criação de animais de companhia, + 4 secundários) — formalização fiscal da atividade logo após o divórcio; boa-fé com data anterior a tudo;
+3. **GNR atesta no auto (12-03-2026):** «os canídeos estavam bem tratados, estavam vacinados, registados e licenciados, no alojamento dispunham de água e comida», com inventário nominal (10 Border Collie + 8 Serra da Estrela — coincide com o formulário da MCP). **Três** verificações sem maus-tratos: out-2025 (SMV+GNR), 12-03-2026 (EPNA/GNR), 13-04-2026 (DGAV+NPA);
+4. **Génese documental do «pedido de alteração de designação comercial»**: formulário «Alteração à MCP» de 13-03-26 assinala apenas designação comercial (Canil D'Aurora Barks) e contactos — não «titularidade» (essa expressão vem dos emails dela);
+5. Duas denúncias do denunciante à GNR só em março: FISC0002514/26 (12-03) e FISC0003416/26 (31-03);
+6. Requerente acompanhada de **advogada** (Dr.ª Ana Rita Maceiras) na visita de 12-03; alega suportar há 15 meses o crédito bancário do imóvel (litígio civil — fora do âmbito DGAV);
+7. **Ajustes decorrentes para a informação interna da MCP**: enriquecer alínea a) (visita 12-03 com achados da GNR e ofício OFI00069/26), precisar alínea b) (alteração de designação comercial + contactos no formulário; «transferência de titularidade» nos emails), e citar as três verificações na frase de reforço do ponto 7.
+
 ---
 
 ## 4. Estado geral do trabalho (incorpora o CHECKPOINT_2026-07-14_PROPOSTAS)
