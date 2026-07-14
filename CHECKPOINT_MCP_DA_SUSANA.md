@@ -56,6 +56,20 @@ Avançar não é "escolher o lado dela" — é recusar escolher lados, que é a 
 
 ---
 
+## 3-A. Elementos novos — comunicações de Susana Walgode de 13 e 17-03-2026 (analisadas em 14-07)
+
+Ficheiros: `2026-03-13 - Susana Walgode - Pedido de alteração de titularidade.eml` e `2026-03-17 - …eml` (no `main`).
+
+1. **Boa-fé documentada**: por palavras próprias (17-03), julgava que o registo respeitava às *instalações* («em momento algum me lembrei da necessidade de algum procedimento») — erro compreensível de leiga que explica a não comunicação da cessão de exploração (art.º 3.º-F do DL 276/2001); contactou a DGAV **por iniciativa própria logo a 13-03** (um mês antes da ação de controlo), após procurar informação presencialmente no NAV Fundão — elemento decisivo contra a narrativa de «conivência» e a favor da emissão do registo;
+2. **Cronologia — data nova**: visita da GNR ao local a **12-03-2026** (na sequência de denúncia do ex-marido), anterior ao expediente FISC0003416/26 (31-03); foi o gatilho dos pedidos dela;
+3. **«Alteração de designação comercial» explicada**: o pedido de transferência foi instruído com o comprovativo do **novo afixo registado no Clube Português de Canicultura** — a «designação comercial» referida pelo SEPNA é o afixo; sendo um afixo **novo**, enfraquece a tese de «usurpação» do antigo;
+4. **Foram duas comunicações** — 13-03 (Divisão de Castelo Branco, a/c Dra. Ana Cristina Ramos Barreira) e 17-03 (NAV Fundão, a/c Dr. Filipe Duarte); a Informação 85373/26 só refere a de 17-03;
+5. **Morada exata para os ofícios (MP e Município)**: «Estrada Municipal 1075, 6230-783 Vale de Prazeres» (17-03); o email de 13-03 usa «Monte da Castanheira - Monte Leal» — confirmar a forma que consta da MCP;
+6. Menores: raças Serra da Estrela e Border Collie; instalações vistoriadas «há vários anos» (continuidade física); **dois emails de remetente diferentes** (susanawalgode@ / walgodesusana@gmail.com) — confirmar o oficial para notificações;
+7. Reforço da posição da DGAV: ela confirma a continuidade da atividade sob o registo existente após o divórcio — coerente com a Informação 85373/26 (atividade registada até à cessação; o dever de comunicar a cessão de exploração era do titular, o denunciante).
+
+---
+
 ## 4. Estado geral do trabalho (incorpora o CHECKPOINT_2026-07-14_PROPOSTAS)
 
 ### 4.1 Onde estamos
