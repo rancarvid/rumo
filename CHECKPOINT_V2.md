@@ -135,7 +135,8 @@ O padrão está documentado: esclarecimentos telefónicos em que o denunciante s
 | `informação interna 85373-26_signed.pdf` | **Documento-mestre**: cronologia oficial, análise das alegações, pedido de parecer, proposta de resposta (assinado 28-05-2026) |
 | `Anexo 17 - 2026-07-01 - Ofício ao denunciante.pdf` | **Resposta enviada** ao denunciante (Rosa Rodrigues, 01-07-2026) |
 | `Anexo 16b - …Resposta GNR Sepna….pdf` | Ofício GNR OFI01196/26 (21-04-2026): encerramento pela GNR |
-| `Anexo 11 - Alojamento - Susana Walgode - Medidas corretivas.pdf` | Medidas corretivas + MCP da atual detentora |
+| `Anexo 11 - Alojamento - Susana Walgode - Medidas corretivas.pdf` | **Auto/registo da ação de controlo de 13-04-2026**: email DGAV a solicitar medidas corretivas na sequência da fiscalização + MCP da atual detentora (peça relevante para o pedido LADA) |
+| `2026-05-29 / 2026-06-07 / 2026-07-01 - Rui Mónica- Canicultura clandestina.pdf` | Comunicações do denunciante (a de 07-06 é a «Reclamação Urgente – Inação Administrativa» à Diretora-Geral). Com estas, **todas as comunicações do denunciante à DGAV constam do repositório** (20-10-2025; 06-03, 08-04, 09-04, 21-04, 18-05, 29-05, 07-06, 01-07 de 2026) |
 | `Anexos 1–15` | Peças do processo por ordem cronológica (denúncias, informações, ofícios) |
 | `2026-07-03 - … - Feedback do jurídico.eml` | Pergunta da Diretora (02-07) + feedback escrito do Dr. Edward Andrade (03-07) |
 | `2026-07-03 - … - Análise e Proposta de resposta.eml` | Proposta do técnico à Diretora (03-07) + texto integral da réplica do denunciante (01-07, 21:45) |
