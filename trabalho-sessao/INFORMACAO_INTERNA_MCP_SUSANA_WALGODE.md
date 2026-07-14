@@ -1,15 +1,31 @@
 # Informação Interna — Apreciação da MCP de Susana Walgode (versão consolidada, 14-07-2026)
 
-> **Estado:** MINUTA CONSOLIDADA — v2, corrigida a pedido do utilizador.
+> **Estado:** MINUTA CONSOLIDADA — v3.
 > Integra: antecedente P.15607/25 (Enquadramento a)); achados do Auto da GNR de 23-03-2026
 > (Análise a): citação «bem tratados… vacinados, registados», afixo CPC 2023/28 de
-> 22-03-2023, ofício OFI00069/26); pares pedido→resposta das medidas corretivas (Anexo 11);
-> apresentação da MCP em 21-05-2026; três verificações sem maus-tratos (ponto g));
-> e resposta pendente à GNR (Conclusão d)).
-> **Alteração v2:** removida a referência à declaração de alterações de atividade na AT
-> (06-01-2023, CAE 01493) — elemento de gume duplo que reforçaria a alegação do denunciante
-> de exercício não titulado pela requerente desde finais de 2022; ver nota de decisão em
+> 22-03-2023, ofício OFI00069/26); comunicação de cessação de atividade do registo
+> PT 2 118 FL (Análise d), nova — a pedido do utilizador, deslocada do ponto sobre
+> "clandestinidade" para o fio cronológico factual); pares pedido→resposta das medidas
+> corretivas (Anexo 11); apresentação da MCP em 21-05-2026; e resposta pendente à GNR
+> (Conclusão d)).
+> **v2:** removida a referência à declaração de alterações de atividade na AT (06-01-2023,
+> CAE 01493) — elemento de gume duplo que reforçaria a alegação do denunciante de exercício
+> não titulado pela requerente desde finais de 2022; ver nota de decisão em
 > CHECKPOINT_MCP_DA_SUSANA.md, secção 3-B.
+> **v3:** reestruturada a Análise em a)-i): a-c) inalteradas; d) NOVA (cessação de
+> atividade, 09-04-2026, ofício 69643/26-S); e) (antiga d) ação de controlo; f) (antiga e)
+> apresentação da MCP; g) (antiga f) no competência/"clandestinidade", agora remetendo para
+> a alínea d) em vez de repetir o facto; h) e i) (antiga g), separadas em dois pontos:
+> dilação processual + proposta de comunicação Município/MP, e pedido de indicação de
+> medidas + prazo.
+> **Pendências de decisão (não aplicadas nesta versão):**
+> (1) a versão anterior tinha, no ponto sobre perspetiva de atuação, a menção às "três
+> verificações sem maus-tratos" (out-2025, 12-03 e 13-04-2026) — esta reforço foi omitido
+> na reformulação do utilizador para o ponto h); confirmar se deve ser reintroduzido;
+> (2) o ponto h) atribui a mesma base — "colaboração institucional... por referência ao
+> inquérito" — a ambos os destinatários; tecnicamente a base para a Câmara Municipal é o
+> art.º 66.º do CPA (auxílio administrativo) + art.º 3.º, n.os 1 e 4, do DL 314/2003, como
+> consta das minutas dos ofícios já redigidas — confirmar se se pretende diferenciar.
 > **Nota:** confirmar o n.º de processo (P.4120/26) e a numeração da informação.
 
 ---
@@ -41,9 +57,11 @@ a) Em 12-03-2026, na sequência de denúncia de terceiro (expediente FISC0002514
 
 b) Em 13-03-2026 e 17-03-2026, a Sra. Susana Walgode, por iniciativa própria e após procurar esclarecimento junto do Núcleo de Alimentação e Veterinária do Fundão, apresentou pedido de alteração de funcionamento do registo PT 2 118 FL, nomeadamente quanto à sua designação comercial (formulário de alteração assinalando a designação comercial «Canil D'Aurora Barks» e os contactos, acompanhado de comunicações solicitando a «transferência de titularidade»), declarando ter assumido a responsabilidade pela atividade após divórcio, na convicção de que o registo se mantinha uma vez que respeitava à atividade e às instalações, que se mantiveram inalteradas;
 
-c) O pedido foi indeferido e comunicado à requerente por ofício 64462/26-E, anexo a este processo, uma vez que o número de registo é pessoal e intransmissível, nos termos do n.º 11 do artigo 3.º do Decreto-Lei n.º 276/2001, de 17 de outubro, e o pedido não foi subscrito pelo titular deste número;
+c) O pedido foi indeferido por não se encontrar subscrito pelo titular do número de registo do alojamento, que se constitui de natureza pessoal e intransmissível nos termos do n.º 11 do artigo 3.º do Decreto-Lei n.º 276/2001, de 17 de outubro, e a decisão comunicada à requerente por ofício 64462/26-E anexo a este processo;
 
-d) Em 13-04-2026 realizou-se ação de controlo ao local, sem aviso prévio e em articulação com o Núcleo de Proteção Ambiental da GNR do Fundão, confirmando-se a detenção de 18 cães adultos e 12 cachorros sob responsabilidade da requerente, sem indícios de maus-tratos, mas com inconformidades ao Decreto-Lei n.º 276/2001, de 17 de outubro, designadamente:
+d) Em 09-04-2026, o denunciante, titular do registo PT 2 118 FL, remeteu a esta Direção-Geral a respetiva comunicação de cessação de atividade, a qual foi processada, encontrando-se aquele registo inativo desde essa data, facto comunicado ao interessado por ofício 69643/26-S;
+
+e) Em 13-04-2026 realizou-se ação de controlo ao local, sem aviso prévio e em articulação com o Núcleo de Proteção Ambiental da GNR do Fundão, confirmando-se a detenção de 18 cães adultos e 12 cachorros sob detenção e titularidade da requerente, sem indícios de maus-tratos, mas com inconformidades ao Decreto-Lei n.º 276/2001, de 17 de outubro, designadamente:
 
 &nbsp;&nbsp;&nbsp;&nbsp;i. Instalações individualizadas destinadas à maternidade (n.º 2 do artigo 25.º do diploma supracitado; superfície mínima do recinto para cadela e ninhada entre 4 m² e 6 m², conforme alínea e) do Anexo III) — resposta da requerente (20-04-2026): ninhadas separadas no dia seguinte à ação de controlo, cada uma em canil próprio com cerca de 3 m × 2 m, com água e alimento em permanência, comprovado fotograficamente;
 
@@ -57,11 +75,13 @@ d) Em 13-04-2026 realizou-se ação de controlo ao local, sem aviso prévio e em
 
 &nbsp;&nbsp;&nbsp;&nbsp;vi. Correção do armazenamento das rações — resposta da requerente (30-04-2026): rações acondicionadas sobre paletes, em espaço delimitado, comprovado fotograficamente;
 
-e) Concluído o ciclo de correções, a requerente apresentou, em 21-05-2026, a mera comunicação prévia em nome próprio, instruída com a declaração de responsabilidade do médico veterinário responsável, datada de 07-05-2026, respeitante ao alojamento com a designação comercial «Canil D'Aurora Barks», sito na Estrada Municipal 1075, 6230-783 Vale de Prazeres, com capacidade máxima declarada de 18 animais (canídeos das raças Serra da Estrela e Border Collie), encontrando-se, no presente, a tramitação dependente do pagamento da taxa aplicável e subsequente emissão do número de registo;
+f) Concluído o ciclo de correções, a requerente apresentou, em 21-05-2026, a mera comunicação prévia em nome próprio, instruída com a declaração de responsabilidade do médico veterinário responsável, datada de 07-05-2026, respeitante ao alojamento com a designação comercial «Canil D'Aurora Barks», sito na Estrada Municipal 1075, 6230-783 Vale de Prazeres, com capacidade máxima declarada de 18 animais (canídeos das raças Serra da Estrela e Border Collie), encontrando-se, no presente, a tramitação dependente do pagamento da taxa aplicável e subsequente emissão do número de registo;
 
-f) No âmbito dos processos conexos, foram invocados por terceiro elementos relativos à propriedade do imóvel e ao respetivo uso. Verificou-se não ter esta Direção-Geral competência para a sua avaliação: o artigo 3.º-A do Decreto-Lei n.º 276/2001, de 17 de outubro, enumera de forma taxativa os elementos instrutórios da MCP, entre os quais não se inclui a titularidade do prédio; a dirimição de litígios entre privados compete aos tribunais, por força do artigo 202.º da Constituição da República Portuguesa, e qualquer pronúncia desta Direção-Geral nessa matéria constituiria nulidade, nos termos do artigo 161.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro;
+g) No âmbito dos processos conexos, foram reiteradamente invocados, por terceiro, litígios quanto ao usufruto do imóvel onde a atividade de criação/reprodução decorre, bem como quanto à alegada «clandestinidade» da atividade entretanto exercida pela requerente no período subsequente à cessação referida na alínea d). Verificou-se não ter esta Direção-Geral competência para a sua avaliação: o artigo 3.º-A do Decreto-Lei n.º 276/2001, de 17 de outubro, enumera de forma taxativa os elementos instrutórios da MCP, entre os quais não se inclui a titularidade do prédio; a dirimição de litígios entre privados compete aos tribunais, por força do artigo 202.º da Constituição da República Portuguesa, e qualquer pronúncia desta Direção-Geral nessa matéria constituiria nulidade, nos termos do artigo 161.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro;
 
-g) Quanto à perspetiva de atuação: o procedimento de MCP é vinculado, não conferindo margem discricionária quando os elementos do artigo 3.º-A se mostrem completos e paga a taxa aplicável. A pendência de inquérito criminal invocada por terceiro não constitui, por si, obstáculo legal ao prosseguimento, assinalando-se que as alegações de maus-tratos respeitantes ao local não foram corroboradas em nenhuma das três verificações realizadas — em outubro de 2025, pelos SMV do Fundão e pela GNR; em 12-03-2026, pela Equipa de Proteção da Natureza e do Ambiente da GNR; e em 13-04-2026, por estes serviços em articulação com o Núcleo de Proteção Ambiental da GNR. Não obstante, atenta a conflitualidade associada ao local e em reforço da segurança do procedimento, entende-se prudente, antes da emissão do número de registo, comunicar a tramitação em curso às entidades com competências conexas — a Câmara Municipal do Fundão, ao abrigo do dever de auxílio administrativo previsto no artigo 66.º do CPA e por referência ao regime de detenção de animais de companhia constante do artigo 3.º, n.os 1 e 4, do Decreto-Lei n.º 314/2003, de 17 de dezembro, e o Ministério Público (MP), no quadro da colaboração institucional e por referência ao inquérito supra identificado —, solicitando a indicação de eventuais procedimentos, decisões ou medidas, designadamente de natureza cautelar, que devam ser observados por esta Direção-Geral, com a menção expressa de que a ausência de resposta no prazo de 10 dias úteis (artigo 86.º do CPA) não obsta ao prosseguimento da tramitação a que esta Direção-Geral está legalmente obrigada.
+h) A sequência praticamente ininterrupta de denúncias e alegações sobre o local perpetrada por terceiro motivou sucessivos pedidos de esclarecimento interno e ponderação sobre a tramitação a tomar, o que dilatou o normal procedimento subsequente à apresentação de uma MCP. Ainda que as alegações invocadas por terceiro, sem documentação que as suportasse, não constituam obstáculo legal ao prosseguimento, atenta a conflitualidade associada ao local e no sentido de reforçar a segurança do procedimento, entende-se prudente, antes da emissão do número de registo, propor comunicação da tramitação em curso às entidades com competências conexas, nomeadamente a Câmara Municipal do Fundão e o Ministério Público (MP), no quadro da colaboração institucional e por referência ao inquérito supra identificado;
+
+i) Para este efeito propõe-se solicitar a indicação de eventuais procedimentos, decisões ou medidas, designadamente de natureza cautelar, que devam ser observados por esta Direção-Geral, com a menção expressa de que a ausência de resposta no prazo de 10 dias úteis (artigo 86.º do CPA) não obsta ao prosseguimento da tramitação a que esta Direção-Geral está legalmente obrigada.
 
 ## 3. Conclusão
 
