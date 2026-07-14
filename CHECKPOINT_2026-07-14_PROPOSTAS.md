@@ -1,7 +1,8 @@
 # CHECKPOINT — Proposta de análise e proposta de resposta Rui Mónica (14/07/2026)
 
+> ⚠️ **INCORPORADO no CHECKPOINT_MCP_DA_SUSANA.md (secção 4), que é o ponto único de
+> retoma do trabalho.** Este ficheiro mantém-se apenas como registo histórico.
 > **Complementa:** CHECKPOINT_V2.md (no `main`, estado geral do processo até 14-07 de manhã).
-> Este checkpoint fixa o ponto de trabalho no fim do dia 14-07-2026.
 > **Processo:** P.3738/26 (autónomo: P.4120/26) | 63167/26-V
 
 ---
