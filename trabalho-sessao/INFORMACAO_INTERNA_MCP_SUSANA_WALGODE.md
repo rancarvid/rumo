@@ -101,7 +101,9 @@ b) Decorrido o prazo de 10 dias úteis sem que seja indicado qualquer impediment
 
 c) A conclusão do procedimento seja comunicada apenas à interessada, nos termos do artigo 82.º do CPA, operando-se a subsequente atualização da lista pública de alojamentos, conforme n.º 12 do artigo 3.º do Decreto-Lei n.º 276/2001, de 17 de outubro;
 
-d) Seja remetida à GNR — Destacamento Territorial do Fundão, em resposta ao ofício OFI00069/26, de 23-03-2026, informação sobre o resultado das diligências realizadas, após a conclusão da tramitação.
+d) Seja remetida à GNR — Destacamento Territorial do Fundão, em resposta ao ofício OFI00069/26, de 23-03-2026, informação sobre o resultado das diligências realizadas, após a conclusão da tramitação;
+
+e) A eventual relevância contraordenacional dos factos descritos na presente informação, respeitante a qualquer das partes, carece de apreciação jurídica autónoma, em sede própria e sem interferência com a tramitação da presente mera comunicação prévia.
 
 À consideração superior,
 
