@@ -75,7 +75,9 @@ e) Em 13-04-2026 realizou-se ação de controlo ao local, sem aviso prévio e em
 
 &nbsp;&nbsp;&nbsp;&nbsp;v. Identificação de instalações individualizadas para enfermaria e quarentena — resposta da requerente (30-04-2026): remetido registo fotográfico da enfermaria, do local de preparação de alimentos e controlo de pesagens, e do espaço destinado à quarentena;
 
-&nbsp;&nbsp;&nbsp;&nbsp;vi. Correção do armazenamento das rações — resposta da requerente (30-04-2026): rações acondicionadas sobre paletes, em espaço delimitado, comprovado fotograficamente;
+&nbsp;&nbsp;&nbsp;&nbsp;vi. Correção do armazenamento das rações — resposta da requerente (30-04-2026): rações acondicionadas sobre paletes, em espaço delimitado, comprovado fotograficamente.
+
+As respostas foram apresentadas entre 20-04-2026 e 06-05-2026, não se tendo tornado necessária a comunicação de prazos de resolução prevista na notificação, e a respetiva adequabilidade foi confirmada por estes serviços;
 
 f) Concluído o ciclo de correções, a requerente apresentou, em 21-05-2026, a mera comunicação prévia em nome próprio, instruída com a declaração de responsabilidade do médico veterinário responsável, datada de 07-05-2026, respeitante ao alojamento com a designação comercial «Canil D'Aurora Barks», sito na Estrada Municipal 1075, 6230-783 Vale de Prazeres, com capacidade máxima declarada de 18 animais (canídeos das raças Serra da Estrela e Border Collie), encontrando-se, no presente, a tramitação dependente do pagamento da taxa aplicável e subsequente emissão do número de registo;
 
