@@ -24,7 +24,7 @@ No exercício das atribuições conferidas à Direção-Geral de Alimentação e
 
 Em comunicações dirigidas a esta Direção-Geral, foi invocada por terceiro a pendência do inquérito em referência, alegadamente relacionado com o mesmo local.
 
-Caso no âmbito do inquérito tenham sido adotadas medidas, designadamente de natureza cautelar, ou proferidas decisões — nomeadamente as respeitantes à detenção de animais pela requerente — que devam ser observadas por esta Direção-Geral, muito se agradece a respetiva indicação. Informa-se que a tramitação não será concluída antes de decorridos 10 dias úteis sobre a data do presente ofício, prosseguindo depois os seus termos, a que esta Direção-Geral está legalmente obrigada, sem prejuízo da inteira disponibilidade para prestar toda a colaboração que lhe seja requisitada.
+Para que a tramitação possa observar quaisquer medidas ou decisões eventualmente adotadas no âmbito do referido inquérito, designadamente as respeitantes à detenção de animais pela requerente, muito se agradece a respetiva indicação. Informa-se que a tramitação não será concluída antes de decorridos 10 dias úteis sobre a data do presente ofício, prosseguindo depois os seus termos, a que esta Direção-Geral está legalmente obrigada, sem prejuízo da inteira disponibilidade para prestar toda a colaboração que lhe seja requisitada.
 
 Com os melhores cumprimentos,
 
