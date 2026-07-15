@@ -103,7 +103,7 @@ c) A conclusão do procedimento seja comunicada apenas à interessada, nos termo
 
 d) Seja remetida à GNR — Destacamento Territorial do Fundão, em resposta ao ofício OFI00069/26, de 23-03-2026, informação sobre o resultado das diligências realizadas, após a conclusão da tramitação;
 
-e) Os factos descritos na presente informação poderão, se superiormente assim se entender, ser objeto de apreciação jurídica autónoma quanto à sua eventual relevância contraordenacional, respeitante a qualquer das partes, em sede própria e sem interferência com a tramitação da presente mera comunicação prévia.
+e) A eventual relevância contraordenacional dos factos descritos, respeitante a qualquer das partes, constitui matéria de sede própria, alheia à tramitação da presente mera comunicação prévia.
 
 À consideração superior,
 
