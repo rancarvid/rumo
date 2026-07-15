@@ -17,7 +17,7 @@ Em resposta à sua última comunicação e no seguimento das informações anter
 
 2. O local foi objeto de ação de controlo imediatamente após esta data, em 13 de abril de 2026, encontrando-se o registo deste alojamento sob devida tramitação no enquadramento previsto nos termos do Decreto-Lei n.º 276/2001, de 17 de outubro. Após a conclusão desta tramitação a lista pública de alojamentos, disponível no portal da DGAV, será atualizada conforme procedimento estabelecido.
 
-3. Ainda no âmbito desta ação, foram igualmente verificadas as condições de detenção dos animais presentes, dentro do enquadramento dado pelo n.º 1, conjugado com o n.º 4, do artigo 3.º do Decreto-Lei n.º 314/2003, de 17 de dezembro.
+3. Ainda no âmbito desta ação, foram igualmente verificadas as condições de detenção dos animais presentes, dentro do enquadramento dado pelo n.º 1, conjugado com o n.º 4, do artigo 3.º do Decreto-Lei n.º 314/2003, de 17 de dezembro. Esclarece-se que a assinatura dos autos de controlo regista a situação verificada no local e não confere qualquer titularidade; a titularidade de registo advém do procedimento em curso, referido no ponto 2.
 
 4. No que respeita ao registo no SIAC, e ao afixo respeitante ao registo genealógico gerido pelo Clube Português de Canicultura, a inscrição de um animal nestes registos não depende de um registo de alojamento nos termos do Decreto-Lei n.º 276/2001, de 17 de outubro.
 
