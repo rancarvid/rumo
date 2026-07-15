@@ -1,20 +1,17 @@
-# Minutas LADA — consulta à CADA e comunicação ao requerente (15-07-2026)
+# Minutas LADA (15-07-2026) — versão conforme à autorização do técnico
 
-> **Contexto:** o prazo de 10 dias do art. 15.º da Lei n.º 26/2016 sobre o pedido de cópia dos autos (recebido 01-07-2026, 21:45; contagem de 02-07; termo 15-07) esgota-se sem decisão de fundo tomada. **Solução legal:** alínea e) do n.º 1 do art. 15.º — submeter as dúvidas à CADA e comunicar a consulta ao requerente dentro do prazo (n.º 2). A comunicação da consulta cumpre o prazo; a decisão final corre depois do parecer (CADA: 40 dias). O apoio do gabinete jurídico é pedido em paralelo, sem urgência de calendário, para preparar a decisão final.
-> **Regra de expedição:** ambos os documentos saem hoje (15-07); a resposta geral ao denunciante cita depois o ofício da consulta no seu ponto LADA.
-> **Proteções:** a exposição à CADA não nomeia o requerente nem a responsável do alojamento; eventual queixa dele à CADA converge para o organismo já consultado pela DGAV.
+> **Contexto:** o prazo de 10 dias do art. 15.º da Lei n.º 26/2016 (pedido recebido 01-07-2026, 21:45; termo 15-07) esgota-se sem decisão de fundo. O técnico **não tem autorização** para submeter a consulta à CADA — vai pedir parecer interno ao jurídico, que poderá decidir essa via. **Solução:** o aditamento à resposta (secção 1) afirma apenas o que é verdadeiro hoje (autuação; qualificação como documentos nominativos; verificação em apreciação jurídica; CADA como possibilidade prevista) e o email interno (secção 1-bis) regista, dentro do prazo, que o técnico identificou o calendário e as vias legais e que a escolha não lhe compete — é o escudo. A minuta da consulta à CADA (secção 2) fica **condicional**, pronta para o jurídico usar se decidir essa via.
 
 ---
 
-## 1. Ofício ao requerente (cumpre o prazo — expedir hoje)
+## 1. Aditamento à resposta ao requerente (verdadeiro à data — segue hoje)
 
-Exmo. Senhor,
+Reportando-nos ao pedido de cópia dos autos das ações de controlo, formulado na sua comunicação de 1 de julho de 2026 e autuado como pedido de acesso a documentos administrativos nos termos da Lei n.º 26/2016, de 22 de agosto, informa-se que os documentos solicitados contêm dados pessoais de terceiros, constituindo documentos nominativos na aceção da alínea b) do n.º 1 do artigo 3.º daquela lei, cujo acesso por terceiros depende da verificação dos requisitos do n.º 5 do artigo 6.º. A verificação destes requisitos encontra-se em apreciação jurídica, sem prejuízo do recurso, se necessário, ao parecer da Comissão de Acesso aos Documentos Administrativos, previsto na alínea e) do n.º 1 do artigo 15.º da mesma lei. A decisão será comunicada a V. Ex.ª logo que concluída essa apreciação.
 
-Reportando-nos ao pedido de cópia dos autos das ações de controlo, formulado na sua comunicação de 1 de julho de 2026 e autuado como pedido de acesso a documentos administrativos nos termos da Lei n.º 26/2016, de 22 de agosto, informa-se que os documentos solicitados contêm dados pessoais de terceiros, constituindo documentos nominativos na aceção da alínea b) do n.º 1 do artigo 3.º daquela lei, cujo acesso por terceiros depende dos requisitos do n.º 5 do artigo 6.º.
+## 1-bis. Email interno de registo (o escudo do técnico — segue hoje)
 
-Suscitando o pedido dúvidas quanto ao regime de acesso aplicável, esta Direção-Geral submeteu a questão a parecer da Comissão de Acesso aos Documentos Administrativos, ao abrigo da alínea e) do n.º 1 do artigo 15.º da referida lei, do que se dá conhecimento a V. Ex.ª nos termos do n.º 2 do mesmo artigo. A decisão será comunicada após a receção do parecer.
-
-Com os melhores cumprimentos,
+> Ex.ma Senhora Diretora,
+> O prazo de resposta ao pedido de acesso aos autos de controlo (artigo 15.º, n.º 1, da Lei n.º 26/2016) termina hoje, 15-07. As vias de resposta legalmente previstas são as tipificadas naquele número, incluindo a submissão das dúvidas a parecer da CADA (alínea e)), cuja adoção não me compete decidir. Na resposta que hoje segue ao requerente informa-se o regime aplicável (documentos nominativos) e que a verificação dos requisitos do n.º 5 do artigo 6.º se encontra em apreciação jurídica, com ressalva expressa do eventual recurso ao parecer da CADA. Solicita-se ao gabinete jurídico a definição da via de decisão, com a urgência que o calendário legal impõe.
 
 ## 2. Pedido de parecer à CADA (expedir hoje, em simultâneo)
 
