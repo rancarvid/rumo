@@ -1,8 +1,8 @@
 # Resposta ao denunciante — VERSÃO FINAL (15-07-2026)
 
 > **Estado:** versão final do técnico, com duas correções aplicadas na consolidação: renumeração sequencial 1–9 (faltava o 4) e identificação da Lei n.º 26/2016 na primeira menção do ponto 8 ("daquela lei" estava sem antecedente).
-> **Sugestão pendente (uma palavra, ponto 2):** "nenhum ato **subsequente** foi praticado" — cola a frase à inativação e elimina a torção temporal ("até abril tudo era em meu nome"). Decidir na passagem a limpo.
-> **Recomendação pendente (ponto 8):** repor "formulado na sua comunicação de 1 de julho de 2026" — âncora da contagem do prazo LADA.
+> **Aplicado (ponto 2):** "nenhum ato subsequente foi praticado" — validado pelo técnico a 15-07.
+> **Aplicado (ponto 8):** reposta a âncora "formulado na sua comunicação de 1 de julho de 2026" (contagem do prazo LADA).
 > **Decisões deliberadas registadas:** ponto 7 sem frase-resultado das verificações de 2026; ponto 3 com âncora SIAC pela frase adjacente; ponto 9 sem prazo, fecho por remissão; art. 82.º em reserva (memo).
 
 ---
@@ -15,7 +15,7 @@ Em resposta à sua última comunicação e no seguimento das informações anter
 
 1. Esta Direção-Geral apenas teve conhecimento da cessação de atividade do alojamento com o registo PT 2 118 FL através da intenção manifestada por V. Ex.ª na sua comunicação de março de 2026, e formalizada em 9 de abril de 2026 nos termos exigidos pelo Decreto-Lei n.º 276/2001, de 17 de outubro, data em que foi tramitada, com a consequente inativação do registo. Esclarece-se que em nenhuma comunicação desta Direção-Geral foi confirmada uma inativação com efeitos retroativos a dezembro de 2022. Até à data da tramitação da cessação, o registo PT 2 118 FL manteve-se publicado na lista de alojamentos disponível no Portal da DGAV.
 
-2. O local foi objeto de ação de controlo imediatamente após esta data, em 13 de abril de 2026, encontrando-se o registo deste alojamento sob devida tramitação no enquadramento previsto nos termos do Decreto-Lei n.º 276/2001, de 17 de outubro. Após a conclusão desta tramitação a lista pública de alojamentos, disponível no portal da DGAV, será atualizada conforme procedimento estabelecido. Por força do exposto no número anterior, esclarece-se que nenhum ato foi praticado em nome do registo PT 2 118 FL.
+2. O local foi objeto de ação de controlo imediatamente após esta data, em 13 de abril de 2026, encontrando-se o registo deste alojamento sob devida tramitação no enquadramento previsto nos termos do Decreto-Lei n.º 276/2001, de 17 de outubro. Após a conclusão desta tramitação a lista pública de alojamentos, disponível no portal da DGAV, será atualizada conforme procedimento estabelecido. Por força do exposto no número anterior, esclarece-se que nenhum ato subsequente foi praticado em nome do registo PT 2 118 FL.
 
 3. Ainda no âmbito desta ação, foram igualmente verificadas as condições de detenção dentro do enquadramento dado pelo número 1, conjugado com o número 4, do artigo 3.º do Decreto-Lei n.º 314/2003, de 17 de dezembro. Os animais encontravam-se identificados e registados no SIAC, acompanhados pelo respetivo titular de registo.
 
@@ -27,7 +27,7 @@ Em resposta à sua última comunicação e no seguimento das informações anter
 
 7. Sobre quaisquer demais temas de litígio civil ou de eventual investigação criminal, reitera-se que não compete pronúncia a esta Direção-Geral.
 
-8. Reportando-nos ao pedido de cópia dos autos das ações de controlo, informa-se que os documentos solicitados contêm dados pessoais de terceiros, constituindo documentos nominativos na aceção da alínea b) do n.º 1 do artigo 3.º da Lei n.º 26/2016, de 22 de agosto, cujo acesso por terceiros depende da verificação dos requisitos do n.º 5 do artigo 6.º da mesma lei. A verificação destes requisitos encontra-se em apreciação jurídica, sem prejuízo do recurso ao parecer da Comissão de Acesso aos Documentos Administrativos, previsto na alínea e) do n.º 1 do artigo 15.º da referida lei. A decisão será comunicada a V. Ex.ª logo que concluída essa apreciação.
+8. Reportando-nos ao pedido de cópia dos autos das ações de controlo, formulado na sua comunicação de 1 de julho de 2026, informa-se que os documentos solicitados contêm dados pessoais de terceiros, constituindo documentos nominativos na aceção da alínea b) do n.º 1 do artigo 3.º da Lei n.º 26/2016, de 22 de agosto, cujo acesso por terceiros depende da verificação dos requisitos do n.º 5 do artigo 6.º da mesma lei. A verificação destes requisitos encontra-se em apreciação jurídica, sem prejuízo do recurso ao parecer da Comissão de Acesso aos Documentos Administrativos, previsto na alínea e) do n.º 1 do artigo 15.º da referida lei. A decisão será comunicada a V. Ex.ª logo que concluída essa apreciação.
 
 9. Para a conclusão da apreciação das suas exposições e do presente processo, poderá ainda V. Ex.ª remeter os elementos que entenda relevantes, incluindo os respeitantes a direito de propriedade, os quais só poderão ser ponderados no estrito âmbito das atribuições desta Direção-Geral, a quem não cabe dirimir conflitos de natureza civil, matéria da competência dos tribunais. Na ausência de elementos novos, esta Direção-Geral remete para todos os esclarecimentos já prestados.
 
