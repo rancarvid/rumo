@@ -155,3 +155,52 @@ A réplica do denunciante de 01-07-2026 (9 pontos, com pedido de cópia dos auto
 «A opção por medidas corretivas com verificação documental, em detrimento da imediata instauração de procedimento contraordenacional, correspondeu a uma atuação graduada e proporcional (artigo 7.º do CPA), orientada para a reposição célere da conformidade e para o interesse imediato do bem-estar dos animais, considerando que: (i) as obrigações de bem-estar animal impendem sobre o detentor de facto dos animais, independentemente da situação do registo do alojamento, pelo que as medidas foram dirigidas à detentora identificada no local; (ii) a situação do registo do alojamento se encontrava em tramitação, na sequência de cessação de atividade comunicada pelo anterior titular quatro dias antes da ação; (iii) a detentora colaborou prontamente, iniciando as correções no dia seguinte à ação e concluindo-as no prazo de três semanas, com verificação por estes serviços; (iv) não se verificaram os pressupostos do n.º 1 do artigo 3.º-G do Decreto-Lei n.º 276/2001, de 17 de outubro; e (v) a eventual relevância contraordenacional dos factos permanece reservada para sede própria, não constituindo a presente tramitação decisão sobre essa matéria.»
 
 **Nota associada (papel de assinaturas com logótipos do ICNF):** o impresso de recolha de assinaturas usado na ação de 13-04 (responsável + testemunhas GNR) mantém os logótipos do ICNF — resquício da transferência de competências de julho de 2025. Vício de forma menor, não invalidante (a entidade resulta da identificação dos técnicos e do procedimento; aproveitamento do ato, art.º 163.º, n.º 5, do CPA; prática transitória generalizada, não descuido casuístico). Ações: (1) preparar nota explicativa interna de uma linha antes de qualquer comunicação LADA do documento; (2) substituir os impressos já e registar a data de adoção dos novos; (3) nunca alterar retroativamente o documento existente.
+
+---
+
+## 6. MINUTA — Resposta à GNR (ofício OFI00069/26, de 23-03-2026) — redigida 17-07
+
+> **Disciplina de redação:** escrita no pressuposto de que o denunciante a lê — o SEPNA já reencaminhou para ele, por ofício (OFI01196/26, 21-04), o teor do que recebeu/apurou, incluindo a existência do pedido de alteração de registo de terceira. Minimização total: sem referência ao pedido de alteração/indeferimento, à cessação, a datas internas (taxa/averbamento), sem nome da responsável (a GNR já o conhece; não é necessário aqui) e sem número de registo (consta da lista pública).
+
+**Destinatário:** GNR — Comando Territorial de Castelo Branco, Destacamento Territorial do Fundão — Núcleo de Proteção Ambiental
+**Assunto:** Resultado das diligências — resposta ao ofício OFI00069/26.220050530, de 23-03-2026 (relatório de serviço n.º 24/26-NPA)
+**Referência:** P.4120/26 [confirmar n.º de processo]
+
+Exmo. Senhor Comandante,
+
+Em resposta ao ofício em referência, que remeteu a estes serviços o relatório de serviço n.º 24/26 do Núcleo de Proteção Ambiental desse Destacamento, e agradecendo a colaboração prestada, informa-se o resultado das diligências realizadas:
+
+1. Em 13 de abril de 2026, estes serviços realizaram ação de controlo ao alojamento de animais de companhia sito na Estrada Municipal 1075, Vale de Prazeres, Fundão, em articulação com o Núcleo de Proteção Ambiental do Fundão, não tendo sido detetados indícios de maus-tratos, encontrando-se os animais presentes identificados e registados nos termos legais;
+
+2. Na referida ação foram identificadas inconformidades ao Decreto-Lei n.º 276/2001, de 17 de outubro, relativas a instalações e equipamentos, objeto de medidas corretivas cuja implementação foi verificada e confirmada por estes serviços;
+
+3. A situação do registo do alojamento encontra-se regularizada nos termos do Decreto-Lei n.º 276/2001, de 17 de outubro, passando o respetivo registo, em nome da responsável pela atividade, a constar da lista pública de alojamentos disponível no portal da DGAV, na sua próxima atualização.
+
+Estes serviços mantêm inteira disponibilidade para toda a colaboração que se revele necessária no âmbito das respetivas atribuições.
+
+Com os melhores cumprimentos,
+
+---
+
+## 7. AMANHÃ (expedição da Informação da MCP) — NADA PODE FALTAR
+
+**Na Análise (correções pendentes acordadas):**
+- [ ] Alínea c): acrescentar a data do ofício de indeferimento — «ofício 64462/26-E, **de 22-04-2026**» (o email de 15-04 prova que o pedido ainda estava em tratamento nessa data; a ordem c)→d) não pode ser lida como cronologia errada);
+- [ ] Alínea j) (ou k)): repor a frase da **taxatividade do art. 3.º-A** (sem ela, a k) sugere que a titularidade era elemento instrutório exigível);
+- [ ] Alínea k): confirmar «orientação **escrita**» + preencher a referência/data (email do gabinete jurídico, 03-07);
+- [ ] Inserir a **justificação da atuação graduada** (minuta na secção 5 deste checkpoint);
+- [ ] Se a visita final ocorrer antes da expedição: acrescentar alínea a documentá-la **como ação de fiscalização/verificação da manutenção das condições — nunca como condição de validação da MCP**;
+- [ ] Parágrafo final do averbamento → alínea própria (p));
+- [ ] Preencher: anexos XXX, n.º da Informação, n.º de registo emitido, n.º de processo.
+
+**Na Conclusão:**
+- [ ] Reformular para **ratificação/homologação** dos atos já praticados (emissão consumada a 15-07) — não «propõe-se o seguimento»;
+- [ ] Manter: comunicação da conclusão **apenas à interessada** (art. 82.º CPA); expedição da **resposta à GNR** (minuta na secção 6); **reserva contraordenacional** (sede própria);
+- [ ] **Espaço de despacho** e subida para assinatura da Diretora — é este despacho que converte as decisões verbais (dispensa dos ofícios CM/MP; emissão) em decisões escritas e assumidas.
+
+**Na visita ao local (se confirmada):**
+- [ ] **Impressos SEM logótipos do ICNF** (imprimir folha de assinaturas com cabeçalho DGAV se os novos modelos ainda não existirem);
+- [ ] Leitura SIAC dos animais presentes + registo fotográfico + verificação específica dos seis itens corrigidos em abril;
+- [ ] Identificação da presente **como detentora/responsável pelos animais** (nunca por referência a registo);
+- [ ] Acompanhamento do NPA da GNR, se possível (testemunha independente);
+- [ ] Registo escrito de **quem determinou** a visita (email de confirmação à Diretora, junto com a confirmação das restantes decisões verbais).
