@@ -143,3 +143,15 @@ A réplica do denunciante de 01-07-2026 (9 pontos, com pedido de cópia dos auto
 
 > **Retoma:** basta este ficheiro. Sequência de leitura sugerida numa sessão nova:
 > este checkpoint → CHECKPOINT_V2.md (contexto histórico) → peças em `trabalho-sessao/`.
+
+---
+
+## 5. PENDENTE (17-07-2026) — justificação da atuação graduada, a inserir na Informação da MCP na próxima revisão
+
+> **Contexto:** o denunciante alega «erros primários» dos técnicos da DGAV na fiscalização. O ataque previsível nº 1: a 13-04-2026 fiscalizou-se uma atividade sem registo ativo (cessação tramitada a 09-04) e o desfecho foram medidas corretivas, não auto de contraordenação nem art.º 3.º-G — «validaram a clandestinidade». A defesa deve ficar escrita na própria Informação **antes** de a pergunta chegar. Inserir na próxima revisão da Análise (sugestão: nova alínea entre a e) e a f), ou no fecho da alínea m)).
+
+**Minuta da justificação (adaptar à numeração final):**
+
+«A opção por medidas corretivas com verificação documental, em detrimento da imediata instauração de procedimento contraordenacional, correspondeu a uma atuação graduada e proporcional (artigo 7.º do CPA), orientada para a reposição célere da conformidade e para o interesse imediato do bem-estar dos animais, considerando que: (i) as obrigações de bem-estar animal impendem sobre o detentor de facto dos animais, independentemente da situação do registo do alojamento, pelo que as medidas foram dirigidas à detentora identificada no local; (ii) a situação do registo do alojamento se encontrava em tramitação, na sequência de cessação de atividade comunicada pelo anterior titular quatro dias antes da ação; (iii) a detentora colaborou prontamente, iniciando as correções no dia seguinte à ação e concluindo-as no prazo de três semanas, com verificação por estes serviços; (iv) não se verificaram os pressupostos do n.º 1 do artigo 3.º-G do Decreto-Lei n.º 276/2001, de 17 de outubro; e (v) a eventual relevância contraordenacional dos factos permanece reservada para sede própria, não constituindo a presente tramitação decisão sobre essa matéria.»
+
+**Nota associada (papel de assinaturas com logótipos do ICNF):** o impresso de recolha de assinaturas usado na ação de 13-04 (responsável + testemunhas GNR) mantém os logótipos do ICNF — resquício da transferência de competências de julho de 2025. Vício de forma menor, não invalidante (a entidade resulta da identificação dos técnicos e do procedimento; aproveitamento do ato, art.º 163.º, n.º 5, do CPA; prática transitória generalizada, não descuido casuístico). Ações: (1) preparar nota explicativa interna de uma linha antes de qualquer comunicação LADA do documento; (2) substituir os impressos já e registar a data de adoção dos novos; (3) nunca alterar retroativamente o documento existente.
