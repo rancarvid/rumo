@@ -38,7 +38,7 @@ a) Denúncia de alegados maus-tratos a animal de companhia apresentada por terce
 
 b) Sucessivas denúncias apresentadas pelo Sr. Rui Mónica, alegado comproprietário do imóvel, nas quais são invocados litígios e alegada pendência de inquérito criminal (NUIPC 000169/26.4GBFND), cujo teor se desconhece — tratado em processo P.3738/26;
 
-c) Pedido de alteração de designação comercial do registo PT 2 118 FL, apresentado pela ora requerente e indeferido por não estar subscrito pelo titular do registo (ofício 64462/26-E, de 22-04-2026, anexo ao presente processo);
+c) Pedido de alteração de designação comercial do registo PT 2 118 FL, apresentado pela ora requerente e indeferido por não estar subscrito pelo titular do registo (ofício 64462/26-E, de 10-04-2026, expedido em 22-04-2026, anexo ao presente processo);
 
 d) Ação de fiscalização realizada em 13-04-2026, em articulação com a GNR, da qual resultaram inconformidades, objeto de medidas corretivas entretanto apresentadas pela requerente, integradas no presente processo e relatadas na análise que se segue.
 
@@ -50,7 +50,7 @@ a) Em 12-03-2026, na sequência de denúncia apresentada por terceiro — Sr. Ru
 
 b) Em 13-03-2026 e 17-03-2026, a Sra. Susana Walgode, por sua iniciativa e após alegadamente procurar esclarecimento junto do Núcleo de Alimentação e Veterinária do Fundão, apresentou pedido de alteração de funcionamento do registo PT 2 118 FL, nomeadamente quanto à sua designação comercial, declarando ter assumido a responsabilidade pela atividade após divórcio, na convicção de que o número de registo se mantinha uma vez que respeitava à atividade e às instalações que se mantiveram inalteradas;
 
-c) O pedido foi indeferido por estes Serviços por não se encontrar subscrito pelo titular do número de registo do alojamento, Sr. Rui Mónica, uma vez que este número se constitui de natureza pessoal e intransmissível nos termos do n.º 11 do artigo 3.º do Decreto-Lei n.º 276/2001, de 17 de outubro. A decisão foi comunicada à requerente por ofício 64462/26-E, de 22-04-2026, anexo a este processo;
+c) O pedido foi indeferido por estes Serviços por não se encontrar subscrito pelo titular do número de registo do alojamento, Sr. Rui Mónica, uma vez que este número se constitui de natureza pessoal e intransmissível nos termos do n.º 11 do artigo 3.º do Decreto-Lei n.º 276/2001, de 17 de outubro. A decisão foi comunicada à requerente por ofício 64462/26-E, de 10-04-2026, expedido por correio eletrónico em 22-04-2026, anexo a este processo;
 
 d) Em 09-04-2026, o denunciante, Sr. Rui Mónica, titular do registo de alojamento PT 2 118 FL, remeteu a esta Direção-Geral a comunicação de cessação de atividade do alojamento, a qual foi processada, encontrando-se aquele registo inativo desde essa data, facto comunicado ao interessado por ofício 69643/26-S anexo ao processo P.3738/26;
 

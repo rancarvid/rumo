@@ -21,7 +21,7 @@ O pedido abrange dois conjuntos: (i) os autos das ações de inspeção/controlo
 
 a) **Pedido de alteração de funcionamento** apresentado pela requerente (formulário de 13-03-2026 e comunicações de 13 e 17-03-2026) — responde diretamente ao conjunto (ii);
 
-b) **Ofício 64462/26-E, de 22-04-2026** (indeferimento do pedido de alteração) — completa o conjunto (ii). Nota-se que este ofício documenta o facto essencial: o pedido não foi deferido precisamente por não estar subscrito pelo titular do registo;
+b) **Ofício 64462/26-E, de 10-04-2026, expedido por correio eletrónico em 22-04-2026** (indeferimento do pedido de alteração), acompanhado da mensagem de remessa — completa o conjunto (ii). Nota-se que este ofício documenta o facto essencial: o pedido não foi deferido precisamente por não estar subscrito pelo titular do registo;
 
 c) **Comunicação destes serviços à responsável pelo alojamento, de 15-04-2026** (medidas corretivas determinadas na sequência da ação de controlo de 13-04-2026);
 
