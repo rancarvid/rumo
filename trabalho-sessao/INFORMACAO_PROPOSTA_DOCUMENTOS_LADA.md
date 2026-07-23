@@ -1,6 +1,6 @@
 # Informação interna — proposta de identificação de documentos (pedido LADA Rui Mónica)
 
-> **Circuito:** à Diretora, para despacho e remessa ao responsável pelo acesso/DAJA.
+> **Circuito (revisto 23-07):** do técnico diretamente à Diretora, que nesta fase decide e **responde diretamente ao requerente** — sem remessa intermédia a gestor/DAJA; o apoio da DAJA fica disponível como opção da Diretora.
 > **Opções fixadas (21-07):** documentos GNR → remissão à entidade autora; anexo CPC → excluído (coerência de critério, art. 6.º/5); menção breve ao impedimento no fecho.
 > **Revisão 23-07 (após verificação do pacote «2026-07-23 Rui Mónica - Documentos LADA.pdf»):** datas do ofício 64462/26-E precisadas (datado 10-04, expedido 22-04); ponto 2.a) restrito ao formulário (comunicações de 13/17-03 passam às exclusões); nota sobre páginas subsequentes das impressões de email; nota explicativa do impresso ICNF integrada no 2.e); alíneas novas no ponto 3 — execução das rasuras com meios correntes + identificação da Diretora não rasurada (fundamento art. 151.º CPA), com decisão dela sobre a assinatura manuscrita. Rodapés Outlook mantidos por decisão do utilizador (sem risco de segurança).
 > **Placeholders:** n.º da informação, data, n.º do parecer/comunicação DAJA, confirmação do n.º de processo.
@@ -14,7 +14,7 @@
 
 ## 1. Objeto
 
-Na sequência da orientação da Divisão de Apoio Jurídico e Auditoria (DAJA) sobre o pedido de acesso a documentos apresentado pelo Sr. Rui Mónica (comunicações de 01-07-2026 e 15-07-2026) — que definiu a via de comunicação parcial com rasura de dados pessoais de terceiros (artigo 6.º, n.º 8, da Lei n.º 26/2016) —, e conforme acordado superiormente, apresenta-se a identificação dos documentos detidos por estes serviços abrangidos pelo pedido, com proposta de tratamento de cada um. O prazo de resposta esgota-se em **29-07-2026**.
+Na sequência da orientação da Divisão de Apoio Jurídico e Auditoria (DAJA) sobre o pedido de acesso a documentos apresentado pelo Sr. Rui Mónica (comunicações de 01-07-2026 e 15-07-2026) — que definiu a via de comunicação parcial com rasura de dados pessoais de terceiros (artigo 6.º, n.º 8, da Lei n.º 26/2016) —, e conforme acordado superiormente, apresenta-se a identificação dos documentos detidos por estes serviços abrangidos pelo pedido, com proposta de tratamento de cada um, para decisão de V. Exa. e subsequente resposta ao requerente. O prazo de resposta esgota-se em **29-07-2026**.
 
 O pedido abrange dois conjuntos: (i) os autos das ações de inspeção/controlo realizadas ao alojamento sito na Estrada Municipal 1075, Vale de Prazeres; (ii) o processo do pedido de alteração do registo PT 2 118 FL, indeferido (formulários, assinaturas e documentos juntos), bem como os relatórios e vistorias nele referidos.
 
@@ -70,9 +70,9 @@ O relatório de serviço n.º 24/26-NPA e o ofício OFI00069/26, de 23-03-2026, 
 
 ## 6. Notas finais
 
-a) A presente proposta tem natureza **identificativa**: a decisão sobre o âmbito da comunicação e a validação das rasuras cabem ao responsável pelo acesso, com apoio da DAJA, atento o impedimento já suscitado pelo signatário quanto a essa decisão;
+a) A presente proposta tem natureza **identificativa**: a decisão sobre o âmbito da comunicação e sobre a suficiência das rasuras cabe a V. Exa., atento o impedimento já suscitado pelo signatário quanto a essa decisão;
 
-b) Propõe-se que a versão final rasurada seja **validada pela DAJA antes da expedição**;
+b) Sugere-se que a versão final rasurada possa ser submetida à **validação da DAJA antes da expedição**, em linha com a orientação por aquela Divisão emitida, se V. Exa. assim o entender;
 
 c) Será mantido registo, documento a documento, do que for comunicado ao requerente, com data e âmbito da rasura.
 
