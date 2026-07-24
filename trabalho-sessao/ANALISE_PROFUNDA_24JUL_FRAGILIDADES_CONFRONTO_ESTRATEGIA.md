@@ -1,20 +1,30 @@
 # Análise aprofundada — confronto documental, fragilidades de ambas as partes, jurisprudência e estratégia (24-07-2026)
 
 > **Objeto:** análise integral pós-carta de 24-07 do denunciante (aditamento CADA + anúncio de instrução criminal + cadernetas prediais).
-> **Limites declarados:** (i) a escritura de 2005 e a certidão predial juntas pela requerente da MCP **não foram examinadas diretamente** nesta análise — trabalha-se com a sua descrição nos autos («quinta no Monte da Castanheira, Monte Leal»; certidão não certificada); (ii) por confirmar: se a comunicação do B642 à interessada precedeu a menção do B642 no ofício 109157/26-S; (iii) o teor do NUIPC 169/26.4GBFND permanece desconhecido.
+> **Limites declarados:** (i) por confirmar: se a comunicação do B642 à interessada precedeu a menção do B642 no ofício 109157/26-S; (ii) o teor do NUIPC 169/26.4GBFND permanece desconhecido.
+> **Atualização (24-07, tarde):** a escritura de 23-06-2005 e a informação predial (descrição 0685) juntas pela requerente **foram examinadas diretamente** — o confronto da secção 1 está COMPLETO e é conclusivo.
 > **Nota de método:** as referências jurisprudenciais foram verificadas por pesquisa em 24-07-2026 (fontes no fim); a aplicação concreta carece sempre de validação pelo apoio jurídico.
 
 ---
 
 ## 1. Confronto dos documentos de propriedade
 
-### 1.1 O que cada parte juntou
+### 1.1 A cadeia documental completa (verificada documento a documento em 24-07)
 
-| | Denunciante (24-07) | Requerente da MCP (07-2026, nos autos) |
+**É tudo o mesmo prédio, e os documentos de ambas as partes encaixam sem resíduo:**
+
+| Elo | Documento | O que fixa |
 |---|---|---|
-| Documentos | Caderneta rústica art. 1707 + caderneta urbana art. 1191 (AT, emitidas 14-07-2026) | Escritura de compra e venda de 2005 + certidão predial (não certificada) |
-| O que identificam | Rústico «Qtª do Monte do Pinto», 13 ha; urbano na rua «Monte da Castanheira», Monte Leal, CP 6230-783, **descrito na CRP do Fundão sob o n.º 0685**, com coordenadas AT (X 263.112 / Y 348.858) | «Quinta no Monte da Castanheira, Monte Leal» (descrição nos autos) |
-| Titularidade que afirmam | Inscrição matricial: ele, «propriedade plena 1/1», por escritura pública | Aquisição por escritura de 2005 (parte(s) por confirmar no documento) |
+| 1 | **Escritura de compra e venda, 23-06-2005** (2.º Cartório Notarial de Castelo Branco; certidão notarial de 19-11-2025) | Venda do **«prédio misto sito no Monte da Castanheira em Monte Leal»**, freguesia de Vale de Prazeres, Fundão — parte urbana matriz **1336**, parte rústica matriz **1292**, **descrição CRP Fundão n.º 685** — pelo preço de €61.000 (urbana €55.000 + rústica €6.000), a **«RUI MANUEL MARTINS DA MÓNICA e mulher SUSANA MARIA BORGES WALGODE DA MÓNICA, casados sob o regime da comunhão de adquiridos»**, com mútuo e hipoteca Banif; parte urbana destinada a «residência própria permanente» |
+| 2 | **Informação predial (descrição 685/19980413**, CRCP Fundão, emitida 11-11-2024) | Prédio **MISTO «SITUADO EM: Monte da Castanheira em Monte Leal»**, área total **130.000 m² (13 ha)**; matrizes atuais **rústica 1707 + urbana 1191**; **AP. 1 de 06-05-2005 — Aquisição, causa Compra, a favor de ambos, «cas. em com. de adquiridos»**, convertida definitiva (AP. 26 de 19-10-2005); hipotecas Banif; penhora SS 2012 (cancelada 2017) e hipoteca legal SS 2016 por dívidas da «Sociedade Agrícola Mónica e Walgode, Lda» |
+| 3 | **Cadernetas AT do denunciante** (emitidas 14-07-2026) | Rústica **1707** (origem no art. **1292** — o da escritura), «Qtª do Monte do Pinto», 13 ha, confrontações coincidentes com a descrição 0685; urbana **1191** (origem no art. **1336** — o da escritura), rua «Monte da Castanheira», Monte Leal, CP 6230-783, **«Descrito na C.R.P. de Fundão sob o registo n.º 0685»**, coordenadas X 263.112 / Y 348.858 |
+| 4 | **RS 24/26 da GNR** (12-03-2026) | Canil na «Estrada Municipal 1075 - Monte Leal», 6230-783 Vale de Prazeres, tipo «Monte/quinta», com georreferenciação Google Earth |
+
+**Conclusões do confronto:**
+
+1. **Parte I (geografia) — FECHADA.** Escritura (matrizes 1336+1292, descrição 685) = descrição CRP 0685 (matrizes renumeradas 1707+1191) = cadernetas dele (1707+1191, «Monte da Castanheira», CP 6230-783) = local do alojamento (Monte Leal, 6230-783, «Monte/quinta», GNR). A caderneta urbana **do próprio denunciante** cita a descrição 0685 — a mesma da certidão junta pela requerente. A condição da DAJA («caso as moradas não sejam coincidentes…») **nunca se ativa**. Resta, como formalidade de registo, o cruzamento SIG das coordenadas AT com a georreferenciação da GNR;
+2. **Titularidade — a tese dele morre nos documentos dele.** O registo predial — a única fonte da presunção de titularidade (art. 7.º CRPredial) — regista a aquisição **por compra, por ambos os cônjuges, casados em comunhão de adquiridos**. As cadernetas AT («propriedade plena 1/1» dele) são registo fiscal desatualizado, sem valor atributivo de propriedade — e a caderneta dele remete expressamente para a descrição 0685 que o desmente;
+3. **O «bem comum» é agora tri-documentado**: escritura (compra por ambos) + registo predial (AP. 1/2005 a favor de ambos) + declarações convergentes das partes (dela à GNR; dele pela invocação do art. 1405.º CC). A DGAV não precisa — nem pode — decidir nada disto: basta constatar que nenhuma das partes carece de «autorização do proprietário» para usar um bem de que o registo a presume comproprietária, e que o uso da coisa comum é litígio civil (art. 1406.º CC).
 
 ### 1.2 O valor jurídico real das cadernetas dele
 
@@ -23,15 +33,11 @@
 3. **Ele próprio destrói a tese da exclusividade**: na mesma carta invoca o art. 1405.º CC e escreve «tratando-se de um bem em litígio/compropriedade, como sobejamente sabem». Compropriedade confessada = a questão é o **uso da coisa comum** (art. 1406.º CC): na falta de acordo, qualquer comproprietário pode servir-se da coisa, desde que não a use para fim diferente e não prive os demais do uso — matéria integralmente civil, dos tribunais;
 4. **Convergência involuntária das partes**: a declaração da requerente à GNR («pertence à mesma e ao seu ex-marido, em partes iguais», RS 24/26) e a confissão dele do litígio de compropriedade **dizem o mesmo**. Nenhuma das partes sustenta que a outra não tem qualquer direito — apenas disputam o uso. A DGAV não tem, nem nunca teve, nada para decidir aqui (art. 202.º CRP; art. 161.º CPA).
 
-### 1.3 O que as cadernetas resolvem a favor do procedimento (Parte I)
+### 1.3 O que resta fazer na Parte I (após o fecho documental)
 
-1. O urbano fica na **rua/lugar «Monte da Castanheira»**, Monte Leal, **CP 6230-783** — o mesmo código postal do alojamento (EM 1075, 6230-783 Vale de Prazeres). «Monte da Castanheira» é um lugar real da localidade — a hipótese de trabalho de 20-07 confirma-se por documento do próprio denunciante;
-2. O rústico de 13 ha tem nome próprio distinto («Qtª do Monte do Pinto») — explica por que a escritura de 2005 pode falar de «quinta no Monte da Castanheira» sem mencionar a EM 1075: topónimos rurais, arruamento posterior;
-3. **Diligências de fecho (internas, sem contactar nenhuma parte):**
-   a) confrontar o n.º de descrição predial da certidão junta pela requerente com a **descrição CRP 0685** (urbano) — coincidindo, é o mesmo prédio confirmado por documentos de ambas as partes;
-   b) cruzar as **coordenadas AT do urbano** com a georreferenciação Google Earth do RS 24/26 (SIG — minutos);
-   c) verificar as confrontações da certidão dela contra as confrontações das cadernetas dele;
-4. **Cautela permanente (reitera-se):** nunca sugerir à requerente a alteração da morada declarada na MCP; a correspondência fecha-se por confronto documental interno, não por retoque de declarações.
+1. **Formalidade final:** cruzamento SIG das coordenadas AT do urbano (X 263.112 / Y 348.858) com a georreferenciação Google Earth do RS 24/26 — minutos, e o registo fica completo;
+2. **Registar a conclusão por escrito** (nota interna ao processo): a identidade do prédio e a aquisição registada por ambos resultam de documentos juntos **pelas duas partes** — a DGAV limita-se a constatar registos públicos, sem apreciar nem decidir direitos (art. 202.º CRP; art. 161.º CPA);
+3. **Cautela permanente (reitera-se):** nunca sugerir à requerente a alteração da morada declarada na MCP; a correspondência fechou-se por confronto documental, não por retoque de declarações.
 
 ## 2. Fragilidades do denunciante (catálogo)
 
