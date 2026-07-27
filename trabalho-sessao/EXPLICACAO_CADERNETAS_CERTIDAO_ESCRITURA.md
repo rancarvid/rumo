@@ -43,6 +43,17 @@ E o objeto:
 
 Preço global €61.000 (urbana €55.000 + rústica €6.000), com mútuo Banif contraído **pelos dois** e hipoteca; a parte urbana destinada «exclusivamente a residência própria permanente». **O título de aquisição — o documento que transfere a propriedade — tem os dois como compradores.** Nenhuma caderneta emitida 21 anos depois altera isto.
 
+### 3.1 O limite da escritura — e porque é a certidão que fecha a dúvida
+
+Uma precisão importante: **sozinha, a escritura só prova o passado** — que em 2005 os dois compraram o prédio. Não prova quem é dono hoje, porque nada numa escritura impede que no dia seguinte tenha havido outra venda, uma doação, uma partilha ou uma penhora. É por isso que a escritura e a certidão trabalham em par, e é a certidão que fecha a dúvida:
+
+1. **O registo predial é o histórico corrido do prédio**: cada transmissão, hipoteca ou penhora entra por ordem cronológica («apresentações»), e a certidão/informação predial reproduz **o que está em vigor**. A informação junta pela requerente (emitida a 11-11-2024, com a menção «Informação em Vigor») mostra que a **última aquisição inscrita continua a ser a de 2005, a favor dos dois** — se tivesse havido venda entretanto, constaria uma inscrição de aquisição posterior a favor do novo titular;
+2. **Não é fácil existir uma venda «escondida»**: desde 2008 o registo da transmissão é obrigatório (promovido pelo notário/solicitador que titula o ato), e um facto sujeito a registo **não produz efeitos contra terceiros enquanto não for registado** (art. 5.º do Código do Registo Predial) — uma venda não registada seria juridicamente invisível para todos, incluindo para a DGAV;
+3. **Limite honesto**: a informação predial é de novembro de 2024 — uma transmissão registada depois dessa data não constaria dela. Para rigor absoluto à data de hoje bastaria uma certidão permanente atualizada (ou a consulta do código de acesso IS-0271-98049-050428-000685, que devolve sempre o estado em vigor);
+4. **O pormenor que esvazia a dúvida neste caso concreto**: as cadernetas do próprio Rui Mónica, emitidas a **14-07-2026** — os documentos mais recentes de todo o processo —, continuam a indicar como documento de aquisição a «escritura pública» e a remeter para a descrição 0685. Ou seja, o próprio denunciante confirma, com papéis de julho de 2026, que não houve nenhuma transmissão posterior. Se ele tivesse comprado a parte dela entretanto, teria junto essa escritura — não a matriz do IMI.
+
+**Em síntese: a escritura prova a aquisição de 2005; o registo em vigor prova que essa aquisição continua a ser a última palavra; e os documentos do próprio denunciante confirmam que nada mudou.**
+
 ## 4. O regime de casamento: mesmo que a escritura só tivesse o nome dele, o prédio seria dos dois
 
 Segunda via, independente da primeira. O casamento foi em **comunhão de adquiridos** — o regime supletivo. O art. 1724.º, alínea b), do Código Civil determina que fazem parte da comunhão:
