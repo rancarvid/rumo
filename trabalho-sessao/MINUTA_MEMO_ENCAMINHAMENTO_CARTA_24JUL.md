@@ -1,6 +1,30 @@
 # Minuta — memo interno de encaminhamento da carta de 24-07 do Rui Mónica
 
-## VERSÃO 2 (27-07, após ajuste por perguntas) — PARA ENVIO ATÉ 28-07
+## VERSÃO 3 (27-07, final) — PARA ENVIO ATÉ 28-07, COMO RESPOSTA AO EMAIL RECEBIDO POR TODOS
+
+> **Ajustes v2→v3:** sem parágrafo de encaminhamento (todos os destinatários já receberam a carta — o memo segue como resposta no próprio thread) · tempestividade como ponto autónomo curto · sem menção ao averbamento dos anexos (tramitação que se pressupõe) · ponto 3 com a teatralidade velada no condicional («caso venha efetivamente a concretizar-se») · restante estrutura e remissões da v2 mantidas.
+
+**Enviar como resposta (Responder a Todos) ao email da comunicação de 24-07** — Para: Diretora de Serviços; em cópia ficam o gabinete da Senhora Diretora-Geral e a DAJA, conforme o thread.
+
+Exma. Senhora Diretora,
+
+Relativamente à comunicação em referência, assinala-se o seguinte enquadramento:
+
+1. Quanto à qualificação de «extemporânea» nela formulada: o ofício 109157/26-S, que decidiu o pedido de acesso na sua formulação ampliada de 15-07-2026, foi expedido em 23-07-2026, dentro do prazo legal aplicável (termo: 29-07-2026).
+
+2. As matérias suscitadas encontram-se tratadas e fundamentadas em documentos do processo, todos consultáveis:
+   **(i)** contestação das rasuras e exigência de cópias integrais sem rasura — a decisão de acesso parcial, fundamentada nos n.ºs 5 e 8 do artigo 6.º da Lei n.º 26/2016, consta do próprio ofício 109157/26-S e das Informações 109085/26 e 109154/26, despachadas superiormente em 23-07-2026; a sua reapreciação corre na sede própria — a queixa que o requerente declara pendente junto da CADA —, cabendo o acompanhamento subsequente a responsável distinto do signatário, nos termos do ponto 7 da Informação 109085/26 (artigo 9.º da Lei n.º 26/2016);
+   **(ii)** solicitação de «prova do título jurídico que fundamentou» o registo B642 — matéria respondida por escrito ao requerente no ofício de 01-07-2026 (elenco taxativo do artigo 3.º-A do Decreto-Lei n.º 276/2001; competência dos tribunais para litígios dominiais, artigo 202.º da Constituição; nulidade de pronúncia administrativa nessa matéria, artigo 161.º do CPA) e no ponto 9 do ofício 105524/26-S, encontrando-se o enquadramento desenvolvido nas Informações 85373/26 e 105506/26, esta última despachada em 23-07-2026.
+
+3. Regista-se, por fim, que o processo se encontra integralmente documentado, ordenado cronologicamente e com os documentos identificados de forma consistente, mantendo-se intactos nos autos os originais dos documentos comunicados — pelo que qualquer das diligências que o requerente anuncia, **caso venha efetivamente a concretizar-se**, encontrará estes serviços em condições de resposta imediata, o mesmo valendo para eventual transição de acompanhamento.
+
+4. O signatário mantém-se disponível para fornecer os elementos factuais do processo que se revelem necessários; o acompanhamento das matérias de acesso a documentos e de natureza jurídica segue o enquadramento definido nas Informações 109154/26 e 109085/26, despachadas.
+
+À consideração superior,
+
+---
+
+## VERSÃO 2 (histórico, superado)
 
 > **Decisões incorporadas:** destinatários Rosa + c/c gabinete da DG + DAJA · email simples · tempestividade rebatida por delimitação (só o pedido ampliado de 15-07, sem tocar no de 01-07) · ponto novo sobre a organização integral do processo e originais intactos (prontidão para requisições/transição) · remissões reforçadas (mostrar trabalho feito e consultável) · zero apreciação sobre as cadernetas (munição guardada) · averbamento ao P.3738/26 · reserva de colaboração firme (elementos factuais sim; acompanhamento LADA/jurídico segue o enquadramento despachado) · nenhuma menção a diligências internas em curso · nenhuma sugestão sobre quem responde.
 
