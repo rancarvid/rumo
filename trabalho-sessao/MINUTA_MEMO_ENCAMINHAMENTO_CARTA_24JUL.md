@@ -1,6 +1,30 @@
 # Minuta — memo interno de encaminhamento da carta de 24-07 do Rui Mónica
 
-## VERSÃO 3 (27-07, final) — PARA ENVIO ATÉ 28-07, COMO RESPOSTA AO EMAIL RECEBIDO POR TODOS
+## VERSÃO 4 (27-07, FINAL PARA ENVIO) — sem travessões, sintaxe administrativa corrente
+
+> Igual à v3 na substância; redação normalizada: frases mais curtas, pontuação corrente (pontos finais e parênteses em vez de travessões), alíneas a)/b).
+
+Exma. Senhora Diretora,
+
+Relativamente à comunicação em referência, cumpre-me assinalar o seguinte:
+
+1. O ofício 109157/26-S decidiu o pedido de acesso na formulação ampliada apresentada pelo requerente em 15-07-2026. Foi expedido em 23-07-2026, dentro do prazo legal aplicável, que terminava em 29-07-2026. Não se verifica, pois, a extemporaneidade alegada.
+
+2. As matérias suscitadas encontram-se tratadas e fundamentadas em documentos do processo:
+
+a) No que respeita às rasuras e à exigência de cópias integrais: a decisão de acesso parcial tem fundamento nos n.ºs 5 e 8 do artigo 6.º da Lei n.º 26/2016, de 22 de agosto, e consta do ofício 109157/26-S e das Informações 109085/26 e 109154/26, despachadas superiormente em 23-07-2026. A reapreciação desta decisão tem sede própria, na queixa que o requerente declara pendente junto da CADA. Nos termos do ponto 7 da Informação 109085/26, o acompanhamento subsequente cabe a responsável distinto do signatário (artigo 9.º da Lei n.º 26/2016).
+
+b) No que respeita à solicitação de prova do «título jurídico» do registo B642: a matéria foi respondida por escrito ao requerente no ofício de 01-07-2026 (elenco taxativo do artigo 3.º-A do Decreto-Lei n.º 276/2001, de 17 de outubro; competência dos tribunais para litígios dominiais, artigo 202.º da Constituição; artigo 161.º do CPA) e no ponto 9 do ofício 105524/26-S. O enquadramento encontra-se desenvolvido nas Informações 85373/26 e 105506/26, esta última despachada em 23-07-2026.
+
+3. Mais se regista que o processo se encontra integralmente documentado e ordenado cronologicamente, mantendo-se intactos nos autos os originais dos documentos comunicados. Caso alguma das diligências anunciadas pelo requerente se venha a concretizar, estes serviços estão em condições de dar resposta imediata, o mesmo se aplicando a uma eventual transição de acompanhamento.
+
+4. O signatário mantém-se disponível para prestar os elementos factuais do processo que se revelem necessários. O acompanhamento das matérias de acesso a documentos e de natureza jurídica segue o enquadramento definido nas Informações 109154/26 e 109085/26.
+
+À consideração superior,
+
+---
+
+## VERSÃO 3 (histórico, superado) — resposta ao email recebido por todos
 
 > **Ajustes v2→v3:** sem parágrafo de encaminhamento (todos os destinatários já receberam a carta — o memo segue como resposta no próprio thread) · tempestividade como ponto autónomo curto · sem menção ao averbamento dos anexos (tramitação que se pressupõe) · ponto 3 com a teatralidade velada no condicional («caso venha efetivamente a concretizar-se») · restante estrutura e remissões da v2 mantidas.
 
