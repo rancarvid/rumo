@@ -290,6 +290,17 @@ O confronto fecha com quatro documentos, dois de cada parte, que encaixam sem re
 
 **Monotonia correta.** Cada distorção respondida com um facto datado; cada ameaça arquivada; zero reação pessoal; nada de fundo enviado a quem já tem tudo respondido. O tempo joga contra quem precisa de escalar para existir — e ele já só escala.
 
+#### Regras permanentes de planeamento (aditadas 27-07 — ver `ANALISE_HIPOTESE_CANAL_COMPROMETIDO_2026-07-27.md`)
+
+Todo o planeamento estratégico subsequente observa, até revisão expressa pelo autor do processo, o **pressuposto prudencial de canal comprometido na linha hierárquica**, com os seguintes corolários:
+
+1. **Pressuposto de conhecimento adverso:** qualquer informação partilhada verbalmente com a linha hierárquica — e o estado interno de qualquer questão sensível do processo — considera-se potencialmente acessível ao denunciante. Nenhum passo estratégico pode depender da confidencialidade de canais que não se controlam;
+2. **Corolário de escrita:** análise sensível apenas em informações formais numeradas (com autor, data e âmbito — cuja reprodução numa carta do denunciante constituiria tripwire duro e datável); emails e comunicações à Direção redigidos no pressuposto de leitura por ele; estratégia pessoal fora dos canais de serviço;
+3. **Corolário de antecipação:** nenhuma fragilidade interna identificada fica por resolver «para depois» — resolve-se e documenta-se nos autos **antes** da carta seguinte dele. O valor de qualquer informação que passe esvazia-se pela antecipação (exemplos imediatos: nota de fecho da Parte I; nota da verificabilidade da certidão + certidão permanente);
+4. **Corolário de cobertura:** nenhum ato do técnico com efeito externo sem cobertura escrita prévia (despacho ou orientação escrita). Instrução verbal recebida = confirmação escrita no próprio dia («na sequência da instrução verbal de hoje, procederei a…»), sem exceções;
+5. **Corolário probatório:** manter os tripwires de conteúdo (teor da escritura tal como está nos autos; marca «não certificada»; teor das apreciações da DAJA; números/horas de documentos internos) e o registo de imputações — são os únicos instrumentos que, atingidos, convertem o pressuposto em prova;
+6. **Cláusula de revisão:** este pressuposto é defensivo e revisível a todo o tempo pelo autor do processo; nenhuma ação dele decorrente pode ser outra coisa que neutra, legal e justificável por si mesma perante qualquer leitor.
+
 ### 9.2 Contra-ataque: viabilidade e timing (síntese da análise de 24-07, que se mantém)
 
 Os tipos disponíveis — difamação agravada (180.º + 184.º CP, crime semipúblico: queixa do visado, promoção do MP, agravação de metade por a vítima ser funcionário no exercício), ofensa a organismo (187.º CP, queixa institucional da DGAV) e denúncia caluniosa (365.º CP) — partilham um obstáculo presente: **enquanto ele escreve a autoridades no exercício do direito de queixa, a jurisprudência protege-o**, salvo prova de que conhece a falsidade do que imputa (TRC 09-10-2024, proc. 573/17.9T9CTB.C2: a fronteira é a boa-fé; «não existe direito de denúncia quando o denunciante conhece a falsidade dos factos imputados»). Essa prova constrói-se com **decisões externas que fixem os factos** — parecer da CADA, arquivamento do inquérito, respostas definitivas — ignoradas e seguidas de reiteração. Cada decisão que ele atropelar converte convicção alegável em dolo demonstrável.
